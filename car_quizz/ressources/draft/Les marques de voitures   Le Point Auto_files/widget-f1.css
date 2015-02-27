@@ -1,0 +1,128 @@
+
+.widget-tableau-f1 {width:100%;display:block;}
+
+.widget-tableau-f1 *{
+	margin: 0px;
+	padding: 0px;
+	border: 0px none;
+	list-style: none outside none;
+	font-family: Arial;
+	font-size: 12px;
+	position: relative;
+	text-decoration: none;
+	color: rgb(51, 51, 51);
+}
+
+.widget-tableau-f1 .title{text-align:right;font-weight:bold;
+height: 40px;
+padding: 5px 5px 0px 0px;
+border-bottom: 1px solid rgb(175, 175, 175);
+}
+.widget-tableau-f1 .title p{
+font-family: Georgia,'Times New Roman',Times,serif;
+line-height: 14px;
+height: 14px;
+font-size: 16px;
+text-indent: 50%;
+}
+
+.widget-tableau-f1 .subtitle{ 
+	height: 25px;
+	font-family: Georgia,'Times New Roman',Times,serif;
+	font-weight:bold;
+	line-height: 25px;
+	font-size: 14px;
+	text-indent: 10px;
+	color: rgb(172, 0, 0);
+}
+
+.widget-tableau-f1 .button{
+	background: url("/images/widget/formule1/bloc_formule1_bas.png") no-repeat scroll left top transparent;
+	display: block;
+	height: 22px;
+	text-align: right;
+}
+
+.widget-tableau-f1 .button a {
+    display: block;
+    position: absolute;
+    right: 20px;
+    height: 22px;
+    line-height: 22px;
+}
+
+.widget-tableau-f1 .button span{
+	display: block;
+	float: left;
+}
+
+
+.widget-tableau-f1 .button span.middle{
+	color: white;
+	font-size: 12px;
+	line-height: 22px;
+	height: 22px;
+	background: none;
+	vertical-align: top;
+}
+
+
+.widget-tableau-f1 .clear{
+	clear: both;
+	height: auto;
+}
+
+.race-flag {width:16px;height:11px;background:url('../images/race-flag16x11.png');}
+.race-flag.race_1 {background-position:0px -0px;}
+.race-flag.race_2 {background-position:0px -11px;}
+.race-flag.race_4 {background-position:0px -22px;}
+.race-flag.race_3 {background-position:0px -33px;}
+.race-flag.race_5 {background-position:0px -44px;}
+.race-flag.race_6 {background-position:0px -55px;}
+.race-flag.race_18 {background-position:0px -66px;}
+.race-flag.race_79 {background-position:0px -77px;}
+.race-flag.race_8 {background-position:0px -88px;}
+.race-flag.race_9 {background-position:0px -99px;}
+.race-flag.race_10 {background-position:0px -110px;}
+.race-flag.race_12 {background-position:0px -121px;}
+.race-flag.race_13 {background-position:0px -132px;}
+.race-flag.race_14 {background-position:0px -143px;}
+.race-flag.race_15 {background-position:0px -154px;}
+.race-flag.race_80 {background-position:0px -165px;}
+.race-flag.race_39 {background-position:0px -176px;}
+.race-flag.race_16 {background-position:0px -187px;}
+.race-flag.race_17 {background-position:0px -198px;}
+
+.classementcountry-flag {width:16px;height:11px;background:url('../images/classementcountry-flag16x11.png');}
+.classementcountry-flag.country_5 {background-position:0px -0px;}
+.classementcountry-flag.country_45 {background-position:0px -11px;}
+.classementcountry-flag.country_122 {background-position:0px -22px;}
+.classementcountry-flag.country_1 {background-position:0px -33px;}
+.classementcountry-flag.country_160 {background-position:0px -44px;}
+.classementcountry-flag.country_121 {background-position:0px -55px;}
+.classementcountry-flag.country_16 {background-position:0px -66px;}
+.classementcountry-flag.country_12 {background-position:0px -77px;}
+.classementcountry-flag.country_40 {background-position:0px -88px;}
+.classementcountry-flag.country_38 {background-position:0px -99px;}
+.classementcountry-flag.country_3 {background-position:0px -110px;}
+.classementcountry-flag.country_10 {background-position:0px -121px;}
+.classementcountry-flag.country_21 {background-position:0px -132px;}
+.classementcountry-flag.country_37 {background-position:0px -143px;}
+.classementcountry-flag.country_2 {background-position:0px -154px;}
+.classementcountry-flag.country_101 {background-position:0px -165px;}
+.classementcountry-flag.country_64 {background-position:0px -176px;}
+.classementcountry-flag.country_24 {background-position:0px -187px;}
+
+.logo-constructeur {width:32px;height:20px;background:url('../images/logo-constructeur32x20.png');}
+.logo-constructeur.constructeur_11 {background-position:0px -0px;}
+.logo-constructeur.constructeur_7 {background-position:0px -20px;}
+.logo-constructeur.constructeur_8 {background-position:0px -40px;}
+.logo-constructeur.constructeur_2 {background-position:0px -60px;}
+.logo-constructeur.constructeur_1 {background-position:0px -80px;}
+.logo-constructeur.constructeur_10 {background-position:0px -100px;}
+.logo-constructeur.constructeur_6 {background-position:0px -120px;}
+.logo-constructeur.constructeur_12 {background-position:0px -140px;}
+.logo-constructeur.constructeur_30 {background-position:0px -160px;}
+.logo-constructeur.constructeur_3 {background-position:0px -180px;}
+.logo-constructeur.constructeur_29 {background-position:0px -200px;}
+

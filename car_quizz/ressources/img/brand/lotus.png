@@ -1,0 +1,1955 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>Le Point</title>
+<meta name="description" content="D&amp;eacute;couvrez le portail Le Point, &amp;agrave; votre service pour d&amp;eacute;couvrir des informations compl&amp;egrave;tes sur l&#039;actualit&amp;eacute; Fran&amp;ccedil;aise et internationale, l&#039;&amp;eacute;conomie, la culture et les nouveaut&amp;eacute;s High Tech." />
+<meta name="author"  content="Le Point, magazine" />
+<!--COL CHH -->
+<!--BLOC HTMLHEADER - htmlheader - DYN-->
+<!--bMiso - bloc_htmlheader.tpl-->
+<meta name="Identifier-URL" content="http://www.lepoint.fr" />
+<meta name="publisher" content="Le Point" />
+<meta name="copyright" content="Le Point" />
+<meta name="apple-itunes-app" content="app-id=326861451" />
+<meta name="robots" content="index, follow" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="stylesheet" type="text/css" href="/css2/spoutnik/styles.css" />
+<link rel="stylesheet" type="text/css" href="/css2/spoutnik/gauche.css" />
+<link rel="stylesheet" type="text/css" href="/css2/spoutnik/centre.css" />
+<link rel="stylesheet" type="text/css" href="/css2/spoutnik/droite.css" />
+<link rel="stylesheet" type="text/css" href="/css2/spoutnik/sprites.css" />
+<link rel="stylesheet" type="text/css" href="/css2/jquery.fancybox.css" />
+<link rel="stylesheet" type="text/css" href="/css2/spoutnik/webrocks.css" />
+<link rel="stylesheet" type="text/css" href="/css2/jquery.smallipop.min.css" />
+<link rel="stylesheet" type="text/css" href="/css2/colorbox.css" />
+<link rel="stylesheet" type="text/css" href="/css2/twitter-timeline/twitter-timeline.css">
+<link rel="stylesheet" type="text/css" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.1/themes/base/jquery-ui.css" />
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+<script type="text/javascript" src="/scripts2/colorbox/jquery.colorbox-min.js"></script>
+<script type="text/javascript" src="/scripts2/spoutnik/plugins/jquery.fancybox.js"></script>
+<script language="JavaScript" type="text/javascript">ord=Math.random()*10000000000000000;tile=0;rub="actualite";type="divers";thematique="actualite";sousthema=null;auteur=null;dossier=null;marque=null;recherche=null;id="";compte="non";abonne="non";freemium="non";tronque="non";</script>
+<!-- Ezakus -->
+<script type='text/javascript'>
+//<!--
+var ezMarkerType = 'asq';
+var ezC = ["g:lepoint","d:lepoint","flt:0","cat:images-auto-addict-marques-lotus"];
+var ezFmt = 'lepoint';
+(function(){
+var s = document.createElement("script");
+s.type = "text/javascript";
+s.src = document.location.protocol + "//asq.ezakus.net/marker/";
+s.async = true;
+var head = document.head || document.getElementsByTagName("head")[0];
+head.appendChild(s);
+})();
+//-->
+</script>
+<!-- /Ezakus -->
+<!--BASILIC-->
+<script type="text/javascript">
+var FOGLIO=window.FOGLIO||{};FOGLIO.queue=FOGLIO.queue||{};FOGLIO.tag_s=new Date().getTime();FOGLIO.app_id="172";FOGLIO.cr=0.3;FOGLIO.sr=1;FOGLIO.ft="c83a7f6dc064ccf54353bb10d88d69b6933a23e5";FOGLIO.q=function(a,b){FOGLIO.queue[a]=FOGLIO.queue[a]||[];FOGLIO.queue[a].push(b)};FOGLIO.q('segment', {name: 'pagetype', value: ''});
+</script>
+<!--FIN BASILIC-->
+<!--[if lt IE 9]>
+<script>
+document.createElement('header');
+document.createElement('nav');
+document.createElement('section');
+document.createElement('article');
+document.createElement('aside');
+document.createElement('footer');
+document.createElement('hgroup');
+document.createElement('figure');
+document.createElement('figcaption');
+</script>
+<![endif]-->
+<!--/BLOC HTMLHEADER - htmlheader - DYN-->
+<!--/COL CHH --><meta property="twitter:card" content="summary" />
+<meta property="twitter:site" content="@LePoint" />
+<meta property="twitter:url" content="" />
+<meta property="twitter:title" content="" />
+<meta property="twitter:description" content="" />
+<!-- tag google analytics -->
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-6448559-1']);
+_gaq.push(['_setDomainName', '.lepoint.fr']);
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+<!-- fin tag google analytics -->
+<script type="text/javascript">if(parent.location != self.location){parent.location=self.location;}</script>
+</head>
+<body>
+<!-- Site -->
+<div id="site">
+<!-- rubrique_2col -->
+<!-- template body :  body_rubrique_2col.tpl -->
+<!--COL CHD -->
+<header>
+<!--BLOC HEADER - Liens l'univers du Point - STATIC - HEADER v.2-->
+<!--bH:-->
+<!--/BLOC HEADER - Liens l'univers du Point - STATIC - HEADER v.2-->
+<!--BLOC HEADER - Liens réseaux  - STATIC - HEADER v.2-->
+<!--bH:-->
+<!--/BLOC HEADER - Liens réseaux  - STATIC - HEADER v.2-->
+<!--BLOC Le Point - Pub Bandeau Horizontal Haut - 728x90 944x90-->
+<!--bH:-->
+<!--/BLOC Le Point - Pub Bandeau Horizontal Haut - 728x90 944x90-->
+<!--BLOC HEADER - Vignette - STATIC - HEADER v.2-->
+<!--bH:-->
+<!--/BLOC HEADER - Vignette - STATIC - HEADER v.2-->
+<!--BLOC HEADER - Nouveau header - DYN - HEADER v.2-->
+<!--bMiso - bloc_header.tpl-->
+<div id="univers">
+<!-- Mon compte -->
+<div id="liste_univers">
+<a href="http://afrique.lepoint.fr" id="lepointafrique" onClick="return xt_click(this,'C','214','Header::Sites_Groupe::Le_Point_Afrique','N')">Le Point Afrique</a>
+<a href="http://www.bellesmontres.com" id="argus" onClick="return xt_click(this,'C','214','Header::Sites_Groupe::Argus_des_montres','S')" target="_blank">Belles Montres</a>
+<a href="http://www.lepoint.fr/golf/" id="lepointgolf" onClick="return xt_click(this,'C','214','Header::Sites_Groupe::Point_Golf','N')">Le Point Golf</a>
+<a onClick="return xt_click(this,'C','214','Header::Sites_Groupe::Point_Etudiants','N')" href="http://etudiants.lepoint.fr/" target="_blank">Le Point Etudiants</a>
+<a href="http://www.lepoint.fr/vin/" id="guideduvin" style="border-right: 1px solid #464646;" onClick="return xt_click(this,'C','214','Header::Sites_Groupe::Guide_du_vin','N')">Guide du vin</a>
+<a target="_blank" style="border-right: 1px solid #464646;" href="http://www.vinobravo.fr/">Vino Bravo</a> </div>
+<div id="liste_services">
+<div id="lancement">
+<a href="#" id="services-lepoint" class="niveau2">Services Le Point</a>
+<div style="display: none;" class="dhtml2" id="lesservices">
+<div class="colonne colonne1">
+<dl class="listeservices">
+<dt>Boutique Le Point</dt>
+<dd><a href="http://abo.lepoint.fr/" onclick="return xt_adc(this, 'INT-142-[lienTexte]')" target="_blank">Abonnement</a></dd>
+<dd><a href="http://boutique.lepoint.fr/rayon/133/hors-serie" onclick="return xt_adc(this, 'INT-149-[lienTexte]')" target="_blank">Hors-séries</a></dd>
+<!-- <dd><a href="http://boutique.lepoint.fr/rayon/135/numeros-speciaux" onclick="return xt_adc(this, 'INT-150-[lienTexte]')" target="_blank">Numéros spéciaux</a></dd> -->
+<dd><a href="http://boutique.lepoint.fr/rayon/147/anciens-numeros" onclick="return xt_adc(this, 'INT-151-[lienTexte]')" target="_blank">Anciens numéros</a></dd>
+<!-- <dd><a href="http://boutique.lepoint.fr/rayon/139/livres-cd-dvd" onclick="return xt_adc(this, 'INT-152-[lienTexte]')" target="_blank">Livres - CD - DVD</a></dd>
+<dd><a href="http://boutique.lepoint.fr/rayon/137/editions-la-boetie" onclick="return xt_adc(this, 'INT-153-[lienTexte]')" target="_blank">Editions La Boétie</a></dd> -->
+</dl>
+<dl class="listeservices">
+<dt>Evénéments</dt>
+<dd><a href="http://www.lepoint.fr/html/lepoint/conferences.php" onclick="return xt_click(this,'C','214','Header::Evenements::Conferences','N')">Conférences</a></dd>
+<dd><a href="http://www.futurapolis.fr" onclick="return xt_click(this,'C','214','Header::Evenements::Futurapolis','N')">Futurapolis</a></dd>
+<dd><a href="http://www.vinobravo.fr" onclick="return xt_click(this,'C','214','Header::Evenements::Vino Bravo','N')">Vino Bravo</a></dd>
+</dl>
+<dl class="listeservices">
+<dt>Annonces</dt>
+<dd><a href="http://www.lepoint.fr/emploi/" onclick="return xt_click(this,'C','214','Header::Annonces::Emploi','N')">Emploi</a></dd>
+<dd><a href="http://www.lepoint.fr/immobilier/" onclick="return xt_click(this,'C','214','Header::Annonces::Immobilier','N')">Immobilier</a></dd>
+<dd><a href="http://www.lepoint.fr/immobilier-neuf/" onclick="return xt_click(this,'C','214','Header::Annonces::Immobilier_Neuf','N')">Immobilier Neuf</a></dd>
+</dl>
+</div>
+<div class="colonne colonne2">
+<dl class="listeservices">
+<dt>Numéro de la semaine</dt>
+<dd>
+<a onclick="return xt_adc(this, 'INT-162-[couv]')" href="http://www.lepoint.fr/versions-numeriques/" class="visuel">
+<img src="/images/couv/lepoint2215-logement-le-scandale-qui-vous-coute-cher5.jpg" title="Le Point Numéro 2215"  alt="Le Point Numéro 2215" width="74" height="95"/>
+</a>
+</dd>
+</dl>
+<dl class="listeservices">
+<dt><a href="http://jeux-concours.lepoint.fr/" onclick="return xt_click(this,'C','214','Header::Loisirs::Jeux_concours','N')"><strong>Jeux-concours</strong></a></dt>
+</dl>
+<dl class="listeservices">
+<dt>Au quotidien</dt>
+<dd><a href="http://www.lepoint.fr/html/meteo/" onclick="return xt_click(this,'C','214','Header::Au_quotidien::Meteo','N')">Météo</a></dd>
+<dd><a href="http://bourse.lepoint.fr/" onclick="return xt_click(this,'C','214','Header::Au_quotidien::Bourse','N')">Bourse</a></dd>
+<dd><a href="http://www.lepoint.fr/html/programme-tele/" onclick="return xt_click(this,'C','214','Header::Au_quotidien::Programme_tele','N')">Programme télé</a></dd>
+</dl>
+</div>
+</div>
+</div>
+<a id="moncomptelogin" class="identifiez iframe" onclick="return xt_click(this,'C','214','Header::Bloc_central::Identifiez_vous','N');" href="http://boc.lepoint.fr/">Identifiez-vous</a>
+<div id="promo-abonnez-vous" style="float: left;"><a href="http://abo.lepoint.fr" [^]="" target="_blank" onclick="return xt_adc(this, 'INT-139-[Button]')" id="moncomptelogin">Abonnez-vous au Point à partir de 1 €</a></div>
+</div>
+</div><div id="bandeau">
+<div class="g">
+<p itemscope itemtype="http://schema.org/Organization">
+<a itemprop="url" href="/">
+<img itemprop="logo" alt="Site d'actualité Le Point" src="/images/commun3/nouvoheader/logo-lepointfr.png" width="253" height="46"/>
+</a>
+<span>Mise à jour le 24 février à 16h10</span>
+</p>
+<ul id="liens">
+<li><a href="http://boc.lepoint.fr/campagne/newsletters/origine/nlh" onclick="return xt_click(this,'C','214','Header::Bloc_central::Recevez_nos_newsletters','N')">Recevez nos newsletters</a></li>
+<li id="reseauxsociauxHeader"><span>Suivez-nous </span> <a onclick="return xt_click(this,'C','214','Header::Bloc_central::Facebook','S')" target="_blank" href="https://www.facebook.com/lepoint.fr" class="bouton1">Facebook</a> <a onclick="return xt_click(this,'C','214','Header::Bloc_central::Twitter','S')" target="_blank" href="https://twitter.com/LePoint" class="bouton2">Twitter</a> <a onclick="return xt_click(this,'C','214','Header::Bloc_central::GooglePlus','S')" target="_blank" href="https://plus.google.com/+LePointfr" class="bouton3">Google plus</a> <a onclick="return xt_click(this,'C','214','Header::Bloc_central::Flux_RSS','N')" target="_blank" href="http://www.lepoint.fr/rss.xml" class="bouton4" target="_blank">RSS</a> <a onclick="return xt_click(this,'C','214','Header::Bloc_central::Mobile','N')" target="_blank" href="http://www.lepoint.fr/mobiles/" class="bouton5">Applis Mobile</a></li>
+<li><a href="http://www.lepoint.fr/html/lepoint/en_kiosque.php" onclick="return xt_click(this,'C','214','Header::Bloc_central::Sommaire_magazine','N')">Sommaire du magazine</a><br>
+</li>
+</ul>
+<div class="col1">
+<!-- Recherche -->
+<form action="/recherche/recherche.php" method="get" id="search1">
+<input name="query" type="text" class="inputsearch focusInput" maxlength="150" value="Rechercher sur le site"  />
+<input type="submit" class="bouton" alt="Rechercher" value="" />
+</form>
+</div>
+</div>
+<div class="d">
+<link href="http://www.lepoint.fr/html/timekeeper/template/style.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript">
+window.onload = function() {
+      if(document.getElementsByTagName('body')[0].style.MozTransform == ''
+         || document.getElementsByTagName('body')[0].style.WebkitTransform == ''
+         || document.getElementsByTagName('body')[0].style.OTransform == ''
+		 || document.getElementsByTagName('body')[0].style.transform == '') {
+	    function hand() {
+		  handS.style.MozTransform    =
+		  handS.style.WebkitTransform =
+		  handS.style.OTransform      =
+		  handS.style.transform       = 'rotate(' + (time * 6) + 'deg)';
+		  handM.style.MozTransform    =
+		  handM.style.WebkitTransform =
+		  handM.style.OTransform      =
+		  handM.style.transform       = 'rotate(' + (time / 10) + 'deg)';
+		  handH.style.MozTransform    =
+		  handH.style.WebkitTransform =
+		  handH.style.OTransform      =
+		  handH.style.transform       = 'rotate(' + (time / 120) + 'deg)';
+	    }
+	    var handH = document.getElementById('handH');
+	    var handM = document.getElementById('handM');
+	    var handS = document.getElementById('handS');
+	    var timekeeper = document.getElementById('timekeeper');
+	    var d = new Date();
+	    var time = d.getSeconds() + 60 * d.getMinutes() + 3600 * d.getHours();
+	    hand();
+	    setInterval(function() {time = time+0.20; hand();}, 200);
+		setInterval(function() {r = new Date(); time = r.getSeconds() + 60 * r.getMinutes() + 3600 * r.getHours(); hand()}, 10000);
+      }
+
+};
+</script>
+<script src="http://www.lepoint.fr/html/timekeeper/swf/Scripts/swfobject_modified.js" type="text/javascript">swfobject.registerObject("FlashID");</script>
+<object id="FlashID" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="88" height="77">
+  <param name="movie" value="http://www.lepoint.fr/html/timekeeper/swf/timekeeper2014.swf">
+  <param name="quality" value="high">
+  <param name="wmode" value="opaque">
+  <param name="swfversion" value="8.0.35.0">
+  <!-- Cette balise <param> invite les utilisateurs de Flash Player en version 6.0 r65 et ultérieure à télécharger la version la plus récente de Flash Player. Supprimez-la si vous ne voulez pas que cette invite soit visible. -->
+  <param name="expressinstall" value="http://www.lepoint.fr/html/timekeeper/swf/Scripts/expressInstall.swf">
+  <!-- La balise <object> suivante est destinée aux navigateurs autres qu'IE. Supprimez-la d'IE à l'aide d'IECC. -->
+  <!--[if !IE]>-->
+  <object type="application/x-shockwave-flash" data="http://www.lepoint.fr/html/timekeeper/swf/timekeeper2014.swf" width="88" height="77">
+    <!--<![endif]-->
+  <param name="quality" value="high">
+  <param name="wmode" value="opaque">
+  <param name="swfversion" value="8.0.35.0">
+  <param name="expressinstall" value="http://www.lepoint.fr/html/timekeeper/swf/Scripts/expressInstall.swf">
+  <!-- Le navigateur affichera le contenu alternatif suivant pour les utilisateurs d'un lecteur Flash de version 6.0 ou de versions plus anciennes. -->
+  <div id="timekeeper">
+    <a href="http://www.bellross.com/index.php?bannerId=13&refererId=37&utm_source=lepoint&utm_medium=timekeeper&utm_medium=carbon" target="_blank" class="link"></a> <img src="http://www.lepoint.fr/html/timekeeper/template/images/handH.png" class="hand" id="handH" alt="heure"/> <img src="http://www.lepoint.fr/html/timekeeper/template/images/handM.png" class="hand" id="handM" alt="minute"/> <img src="http://www.lepoint.fr/html/timekeeper/template/images/handS.png" class="hand" id="handS" alt="seconde"/>
+  </div>
+  <!--[if !IE]>-->
+  </object>
+  <!--<![endif]-->
+</object>
+</div>
+</div>
+<!-- PUB -->
+<!-- /PUB -->
+<nav>
+<div id="menu">
+<ul class="clearfix">
+<li class="first">
+<a class="niveau1 in" href="/">Actualit&eacute;</a>
+</li>
+<!--<li id="mondial2014">
+<a href="/coupe-du-monde-2014/" title="Coupe du monde 2014" class="niveau1 ">Mondial 2014</a>
+<div style="display: none;" class="dhtml">
+<ul>
+<li><a href="/coupe-du-monde-2014/" title="Coupe du monde 2014">Mondial 2014</a></li>
+<li><a href="/coupe-du-monde-2014/equipes/france/" title="Les Bleus">Les Bleus</a></li>
+<li><a href="/coupe-du-monde-2014/groupes/groupe-e/" title="Groupes">Groupes</a></li>
+<li><a href="/coupe-du-monde-2014/equipes/bresil/" title="Equipes">Equipes</a></li>
+<li><a href="/coupe-du-monde-2014/matches-en-direct/" title="Lives">Lives</a></li>
+<li><a href="/coupe-du-monde-2014/classement/" title="Classement">Classement</a></li>
+<li><a href="/coupe-du-monde-2014/saccomano-refait-le-mondial/" title="Sacco refait le Mondial">Sacco refait le Mondial</a></li>
+<li><a href="/coupe-du-monde-2014/sondages/" title="Sondages">Sondages</a></li>
+<li><a href="/coupe-du-monde-2014/diaporamas/" title="Diaporamas">Diaporamas</a></li>
+<li><a href="/coupe-du-monde-2014/portrait-afrique/" title="Portraits">Portraits</a></li>
+<li><a href="/coupe-du-monde-2014/histoire/" title="Histoire">Histoire</a></li>
+<li><a href="/coupe-du-monde-2014/resultats/" title="Résultats">Résultats</a></li>
+</ul>
+</div>
+</li>-->
+<li>
+<a href="/politique/" title="Politique" class="niveau1 " >Politique</a>
+<div style="display: none;" class="dhtml">
+<ul>
+<li><a href="/politique/" title="Politique">Politique</a></li>
+<li><a href="/invites-du-point/philippe-tesson/" title="Philippe Tesson">Philippe Tesson</a></li>
+<li><a href="/invites-du-point/michele-cotta/" title="Michèle Cotta" >Michèle Cotta</a></li>
+</ul>
+</div>
+</li>
+<li>
+<a href="/departementales-2015/" title="Départementales 2015" class="niveau1 " >Départementales 2015</a>
+<div style="display: none;" class="dhtml">
+<ul>
+<li><a href="/departementales-2015/" title="Départementales 2015">Départementales 2015</a></li>
+<li><a href="http://www.lepoint.fr/departementales-2015/departementales-2015-mode-d-emploi-29-01-2015-1900665_2471.php" title="Mode d'emploi">Mode d'emploi</a></li>
+<li><a href="/departementales-2015/alpes-maritimes/" title="Alpes-Maritimes">Alpes-Maritimes</a></li>
+<li><a href="/departementales-2015/bouches-du-rhone/" title="Bouches-du-Rhône">Bouches-du-Rhône</a></li>
+<li><a href="/departementales-2015/herault/" title="Hérault">Hérault</a></li>
+<li><a href="/departementales-2015/puy-de-dome/" title="Puy-de-Dôme">Puy-de-Dôme</a></li>
+<li><a href="/departementales-2015/tarn-et-garonne/" title="Tarn-et-Garonne">Tarn-et-Garonne</a></li>
+<li><a href="http://www.lepoint.fr/departementales-2015/departementales-2015-les-dates-des-elections-02-02-2015-1901628_2471.php" title="Dates des élections" >Dates des élections</a></li>
+</ul>
+</div>
+</li>
+<li>
+<a href="/economie/" title="&Eacute;conomie" class="niveau1 " >&Eacute;conomie</a>
+<div style="display: none;" class="dhtml">
+<ul>
+<li><a href="/economie/" title="Economie">&Eacute;conomie</a></li>
+<li><a href="/grandes-ecoles-de-commerce/" title="Grandes Ecoles">Grandes &Eacute;coles</a></li>
+<li><a href="/argent/" title="Argent">Argent</a></li>
+<li><a href="http://bourse.lepoint.fr/" title="Bourse">Bourse</a></li>
+<li><a href="/immobilier/" title="Immobilier" >Immobilier</a></li>
+<li><a href="/immobilier-neuf/" title="Immobilier neuf" >Immobilier neuf</a></li>
+<li><a href="/emploi/" title="Emploi">Emploi</a></li>
+<li><a href="/futurapolis/innovation-sociale/" title="Innovation sociale">Innovation sociale</a></li>
+</ul>
+</div>
+</li>
+<li>
+<a href="/high-tech-internet/" title="Tech &amp; Net" class="niveau1 ">Tech &amp; Net</a>
+<div style="display: none;" class="dhtml">
+<ul>
+<li><a href="/high-tech-internet/" title="Tech &amp; Net">Tech &amp; Net</a></li>
+<li class="gdn"><a href="/guide-du-numerique/" title="Guide du num&eacute;rique">Guide du num&eacute;rique</a></li>
+<li class="jeuxvideo"><a href="/jeux-video/" title="Jeux vid&eacute;o">Jeux vid&eacute;o</a></li>
+<li><a href="/high-tech-internet/planete-appli/" title="Plan&egrave;te Appli">Plan&egrave;te Appli</a></li>
+</ul>
+</div>
+</li>
+<li>
+<a href="/sport/" title="Sports" class="niveau1 ">Sports</a>
+<div style="display: none;" class="dhtml">
+<ul>
+<li><a href="/sport/" title="Sports">Sports</a></li>
+<li><a href="/sport/football/" title="Football">Football</a></li>
+<li><a href="/sport/football/ligue-1/" title="Ligue1">Ligue 1</a></li>
+<li><a href="/golf/" title="Golf">Golf</a></li>
+<li><a href="http://sport.lepoint.fr/motor/formule-1/classements" title="Formule 1">Formule 1</a></li>
+<li><a href="/poker/" title="Poker">Poker</a></li>
+<li><a href="http://afrique.lepoint.fr/coupe-d-afrique-des-nations/" title="Coupe d'Afrique des Nations">CAN 2015</a></li>
+<!--<li><a href="/coupe-du-monde-2014/" title="Coupe du monde 2014">Mondial 2014</a></li>-->
+</ul>
+</div>
+</li>
+<li>
+<a href="/sante/" title="Sant&eacute;" class="niveau1 ">Sant&eacute;</a>
+<div style="display: none;" class="dhtml">
+<ul>
+<li><a href="/sante/" title="Sant&eacute;">Sant&eacute;</a></li>
+<li><a href="http://hopitaux.lepoint.fr" title="Palmar&egrave;s des H&ocirc;pitaux et des cliniques">Palmar&egrave;s des H&ocirc;pitaux et des cliniques</a></li>
+<li class="partenaires"><a title="Entra&icirc;nement c&eacute;r&eacute;bral" href="/entrainement-cerebral/">Entra&icirc;nement c&eacute;r&eacute;bral</a></li>
+<li><a href="/sante/phytotherapie/" title="Phytothérapie">Phytothérapie</a></li>
+<li><a href="/sante/kine/" title="Kinésithérapie">Kinésithérapie</a></li>
+</ul>
+</div>
+</li>
+<li>
+<a href="/culture/" title="Culture" class="niveau1 ">Culture</a>
+<div style="display: none;" class="dhtml">
+<ul>
+<li><a href="/culture/" title="Culture">Culture</a></li>
+<li><a href="/cinema/" title="Cin&eacute;ma">Cin&eacute;ma</a></li>
+<li><a href="/series-tv/" title="Séries TV">Séries TV</a></li>
+<li><a href="/bandes-annonces/" title="Bandes-annonces">Bandes-annonces</a></li>
+<li><a href="/people/" title="People">People</a></li>
+<li><a href="/livres/" title="Livres">Livres</a></li>
+<li><a href="/arts/" title="Arts">Arts</a></li>
+<li><a href="/musique/" title="Musique">Musique</a></li>
+<li><a href="/histoire/" title="Histoire">Histoire</a></li>
+</ul>
+</div>
+</li>
+<li>
+<a href="/sciences-nature/" title="Sciences & Nature" class="niveau1 ">Sciences & Nature</a>
+<div style="display: none;" class="dhtml">
+<ul>
+<li><a href="/sciences-nature/" title="Sciences & Nature">Sciences & Nature</a></li>
+<li><a href="/astronomie/" title="Astronomie">Astronomie</a></li>
+<li><a href="/environnement/" title="Environnement">Environnement</a></li>
+<li><a href="/science/" title="Sciences">Sciences</a></li>
+<li><a href="/innovation/" title="Innovation">Innovation</a></li>
+<li><a href="/futurapolis/" title="Futurapolis">Futurapolis</a></li>
+</ul>
+</div>
+</li>
+<li>
+<a href="/art-de-vivre/" title="Lifestyle" class="niveau1 ">Lifestyle</a>
+<div style="display: none;" class="dhtml">
+<ul>
+<li><a href="/art-de-vivre/" title="Lifestyle">Lifestyle</a></li>
+<li><a href="/golf/" title="Golf">Golf</a></li>
+<li><a href="/voyages/" title="Voyages">Voyages</a></li>
+<li><a href="/gastronomie/" title="Gastronomie">Gastronomie</a></li>
+<li><a href="/mode-design/" title="Mode & Design">Mode & Design</a></li>
+<!--li><a href="/design/" title="Design">Design</a></li-->
+</ul>
+</div>
+</li>
+<li>
+<a href="/automobile/" title="Automobile" class="niveau1 ">Automobile</a>
+<div style="display: none;" class="dhtml">
+<ul>
+<li><a href="/automobile/" title="Automobile">Automobile</a></li>
+<li><a href="/automobile/actualites/" title="Actualité">Actualité</a></li>
+<li><a href="/automobile/essais/" title="Essais">Essais</a></li>
+<li><a href="/automobile/securite/" title="S&eacute;curit&eacute;">S&eacute;curit&eacute;</a></li>
+<li><a href="/automobile/salons/" title="Salons">Salons</a></li>
+<li><a href="/automobile/sports-et-reves/" title="Sports et R&ecirc;ves">Sport</a></li>
+<li><a href="/automobile/innovations/" title="Innovations">Innovations</a></li>
+</ul>
+</div>
+</li>
+<li>
+<a href="/vin/" title="Vins" class="niveau1 ">Vins</a>
+<div style="display: none;" class="dhtml">
+<ul>
+<li><a href="/vin/" title="Vins">Vins</a></li>
+<li><a href="/vin/chroniques/" title="Chroniques">Chroniques</a></li>
+<li><a href="/vin/accords-mets-vins/" title="Accords mets et vins">Accords mets et vins</a></li>
+<li><a href="/vin/appellations/" title="Appellations">Appellations</a></li>
+<li><a href="/vin/cepages/" title="C&eacute;pages">C&eacute;pages</a></li>
+<li><a href="/vin/blog-invites/" title="Le bloc des invit&eacute;s">Les blogs des invit&eacute;s</a></li>
+<li><a href="/vin/mots-du-vin/" title="Les mots du vin">Les mots du vin</a></li>
+<li><a href="/vin/le-saviez-vous/" title="Le saviez-vous">Le saviez-vous</a></li>
+</ul>
+</div>
+</li>
+<!--li class="diaporama"><a href="/diaporamas/"  title="Diaporamas">Diaporamas</a></li-->
+<!--li class="bt-promo"><a href="http://afrique.lepoint.fr/coupe-d-afrique-des-nations/" title="CAN 2015"><img src="/images/can2015.png" alt="CAN 2015"></a></li-->
+<!--<li class="picto video"><a href="/video"  title="Le Point TV">Le Point TV</a></li>-->
+</ul>
+</div>
+<!-- PUB -->
+<div id="pub_haut">
+<div style="margin:0 auto;text-align:center;min-width:728px">
+<script type="text/javascript">
+document.write('<scr'+'ipt type="text/javascript" src="http://ad.fr.doubleclick.net/N7750430/adj/ts.lepoint.fr/'+rub+';tile='+(tile=tile+1)+';dcopt=ist;thematique='+thematique+';sousthema='+sousthema+';auteur='+auteur+';dossier='+dossier+';marque='+marque+';recherche='+recherche+';type='+type+';sz=728x90;pos=haut;compte='+compte+';abonne='+abonne+';ord=' + ord + '?"><\/script>');
+</script>
+</div>
+</div>
+<style type="text/css">
+#pub_haut * {
+vertical-align: middle;
+margin-left: auto;
+margin-right: auto;
+}
+</style>
+<!-- /PUB -->
+<div id="smenu">
+<ul class="clearfix">
+<li><a href="/" title="Actualit&eacute;" >Actualit&eacute;</a></li>
+<li><a href="http://www.lepoint.fr/politique/" title="Politique">Politique</a></li>
+<li><a href="http://www.lepoint.fr/monde/" title="International" >International</a></li>
+<li><a href="/societe/" title="Soci&eacute;t&eacute;" >Soci&eacute;t&eacute;</a></li>
+<li><a href="/justice/" title="Justice" >Justice</a></li>
+<li><a href="/medias/" title="M&eacute;dias" >M&eacute;dias</a></li>
+<li><a href="/villes/" title="Villes" >Villes</a></li>
+<li><a href="http://www.lepoint.fr/insolite/" title="Insolites" >Insolites</a></li>
+<li><a href="http://www.lepoint.fr/confidentiels/" title="Confidentiels" >Confidentiels</a></li>
+<li><a href="http://www.lepoint.fr/invites-du-point/" title="Les invités" >Les invités</a></li>
+<li><a href="http://www.lepoint.fr/editos-du-point/" title="&Eacute;ditos" >Éditos & Chroniques</a></li>
+<!-- <li class="bt-promo"><a href="/municipales-2014/" onclick="return xt_adc(this, 'INT-89')"><img src="http://logi8.xiti.com/get.ad?xts=188560&ati=INT-89-[Button]&type=AT&rn=1&url=http://www.lepoint.fr/images/commun3/municipale-2014.jpg" width="124" height="28" alt="Municipales 2014" title="Municipales 2014"></a></li> --> </ul>
+</div></nav>
+<!--/BLOC HEADER - Nouveau header - DYN - HEADER v.2-->
+</header>
+<!--/COL CHD --><div class="contenu">
+<!-- début contenu -->
+<!--COL R10 1-->
+<!--/COL R10 1-->
+<div id="gauche">
+<div class="col_centre">
+<div class="liste_article">
+<!--COL R10 2-->
+<!--BLOC RUBRIQUE - Contenu Arche-->
+<!--bMmrg - blocp_contenu_arche.tpl-->
+    <div class="tag_page"><div class="t"><h3>Erreur</h3> </div></div>
+    <div style="font-family:Verdana,Arial,Helvetica,sans-serif;font-size:13px;font-size-adjust:none;font-style:normal;font-variant:normal;font-weight:normal;line-height:17px;" align="center">
+   	 
+	La page que vous recherchez n'existe pas.<br/><br/><br/>
+    <script type="text/javascript">
+  var GOOG_FIXURL_LANG = 'fr';
+  var GOOG_FIXURL_SITE = 'http://www.lepoint.fr/';
+</script>
+<script type="text/javascript" 
+    src="http://linkhelp.clients.google.com/tbproxy/lh/wm/fixurl.js"></script>
+    
+    </div>
+  <!--/BLOC RUBRIQUE - Contenu Arche-->
+<!--/COL R10 2-->
+</div>
+</div>
+<!--COL R10 3-->
+<!--/COL R10 3-->
+</div><!-- fin gauche -->
+<!-- début droite -->
+<div id="droite">
+<!--COL R30 1-->
+<!--BLOC RUBRIQUE - 300 - Dernière minute - AUTOCMS-->
+<!--bMexe - bloc_derniere_minute_300.tpl-->
+<div class="bloc derniere_depeche">
+<div class="t">
+<p class="ph6">Derni&egrave;re minute</p>
+</div>
+<ul id="home">
+<li>
+<span><time datetime="2015-02-24T16:06">16h06</time></span>
+<p class="ph3">
+<a href="/bourse/booking-com-parite-tarifaire-le-site-se-defend-d-aller-a-l-encontre-de-l-interet-des-hoteliers-24-02-2015-1907551_81.php">Booking.com/parité tarifaire: le site se défend d&#039;aller à...</a>
+</p>
+</li>
+<li>
+<span><time datetime="2015-02-24T16:06">16h06</time></span>
+<p class="ph3">
+<a href="/monde/une-missionnaire-methodiste-americaine-enlevee-par-des-hommes-armes-24-02-2015-1907552_24.php">Une missionnaire méthodiste américaine enlevée par des hommes armés</a>
+</p>
+</li>
+<li>
+<span><time datetime="2015-02-24T16:04">16h04</time></span>
+<p class="ph3">
+<a href="/culture/jacques-dutronc-en-pleine-forme-prepare-un-nouveau-disque-en-corse-24-02-2015-1907550_3.php">Jacques Dutronc en pleine forme prépare un nouveau disque en Corse</a>
+</p>
+</li>
+<li>
+<span><time datetime="2015-02-24T16:04">16h04</time></span>
+<p class="ph3">
+<a href="/politique/une-francaise-travaillant-pour-une-ong-enlevee-au-yemen-24-02-2015-1907527_20.php">Yémen : une Française travaillant pour la Banque mondiale enlevée</a>
+</p>
+</li>
+<li>
+<span><time datetime="2015-02-24T15:58">15h58</time></span>
+<p class="ph3">
+<a href="/societe/lyon-turin-situation-debloquee-pour-permettre-le-lancement-des-travaux-24-02-2015-1907549_23.php">Lyon-Turin: situation débloquée pour permettre le &quot;lancement des...</a>
+</p>
+</li>
+<li>
+<span><time datetime="2015-02-24T15:55">15h55</time></span>
+<p class="ph3">
+<a href="/bourse/tournee-vers-la-fed-wall-street-hesite-a-l-ouverture-24-02-2015-1907545_81.php">Tournée vers la Fed, Wall Street hésite à l&#039;ouverture</a>
+</p>
+</li>
+<li>
+<span><time datetime="2015-02-24T15:55">15h55</time></span>
+<p class="ph3">
+<a href="/bourse/la-bourse-de-paris-en-legere-baisse-apres-le-feu-vert-de-la-zone-euro-a-la-grece-0-17-24-02-2015-1907546_81.php">La Bourse de Paris en légère baisse après le feu vert de la zone...</a>
+</p>
+</li>
+<li>
+<span><time datetime="2015-02-24T15:55">15h55</time></span>
+<p class="ph3">
+<a href="/sante/tabac-la-consommation-en-legere-baisse-24-02-2015-1907548_40.php">Tabac : la consommation en légère baisse</a>
+</p>
+</li>
+<li>
+<span><time datetime="2015-02-24T15:54">15h54</time></span>
+<p class="ph3">
+<a href="http://afrique.lepoint.fr/culture/rendez-vous-tele-12-years-a-slave-a-voir-sur-canal-24-02-2015-1907520_2256.php" target="_blank">Vidéo - Rendez-vous télé : &quot;12 Years a Slave&quot; à voir sur Canal+</a>
+</p>
+</li>
+<li>
+<span><time datetime="2015-02-24T15:53">15h53</time></span>
+<p class="ph3">
+<a href="/societe/salon-de-l-agriculture-bio-es-tu-la-24-02-2015-1907544_23.php">Salon de l&#039;agriculture : bio, es-tu là ?</a>
+</p>
+</li>
+<li>
+<span><time datetime="2015-02-24T15:51">15h51</time></span>
+<p class="ph3">
+<a href="/economie/grece-l-eurogroupe-donne-son-feu-vert-pour-poursuivre-les-aides-24-02-2015-1907538_28.php">Grèce : l&#039;Eurogroupe donne son feu vert pour poursuivre les aides</a>
+</p>
+</li>
+<li>
+<span><time datetime="2015-02-24T15:46">15h46</time></span>
+<p class="ph3">
+<a href="/monde/hongrie-un-seul-siege-vous-manque-24-02-2015-1907543_24.php">Hongrie : un seul siège vous manque...</a>
+</p>
+</li>
+<li>
+<span><time datetime="2015-02-24T15:41">15h41</time></span>
+<p class="ph3">
+<a href="/automobile/actualites/cartel-des-camions-l-amende-de-l-ue-pourrait-atteindre-plus-de-4-mds-eur-presse-24-02-2015-1907542_683.php">Cartel des camions: l&#039;amende de l&#039;UE pourrait atteindre plus de 4...</a>
+</p>
+</li>
+<li>
+<span><time datetime="2015-02-24T15:39">15h39</time></span>
+<p class="ph3">
+<a href="/societe/emploi-le-travail-est-dans-le-pre-veut-convaincre-l-agriculture-24-02-2015-1907541_23.php">Emploi: le travail est dans le pré, veut convaincre l&#039;agriculture</a>
+</p>
+</li>
+<li>
+<span><time datetime="2015-02-24T15:38">15h38</time></span>
+<p class="ph3">
+<a href="/monde/republmique-tcheque-fusillade-dans-un-restaurant-neuf-morts-24-02-2015-1907540_24.php">Républmique tchèque: fusillade dans un restaurant, neuf morts</a>
+</p>
+</li>
+<li>
+<span><time datetime="2015-02-24T15:37">15h37</time></span>
+<p class="ph3">
+<a href="/bourse/cartel-des-camions-l-amende-de-l-ue-pourrait-atteindre-plus-de-4-mds-eur-presse-24-02-2015-1907539_81.php">Cartel des camions: l&#039;amende de l&#039;UE pourrait atteindre plus de 4...</a>
+</p>
+</li>
+<li>
+<span><time datetime="2015-02-24T15:34">15h34</time></span>
+<p class="ph3">
+<a href="/high-tech-internet/apple-lance-les-emoticones-de-la-diversite-24-02-2015-1907536_47.php">Apple lance les émoticônes de la diversité</a>
+</p>
+</li>
+<li>
+<span><time datetime="2015-02-24T15:28">15h28</time></span>
+<p class="ph3">
+<a href="/monde/grece-accord-de-l-eurogroupe-pour-la-poursuite-du-programme-d-assistance-24-02-2015-1907534_24.php">Grèce: accord de l&#039;Eurogroupe pour la poursuite du programme...</a>
+</p>
+</li>
+<li>
+<span><time datetime="2015-02-24T15:23">15h23</time></span>
+<p class="ph3">
+<a href="/economie/le-conseil-d-etat-valide-l-ouverture-des-magasins-de-bricolage-le-dimanche-24-02-2015-1907533_28.php">Le Conseil d&#039;État valide l&#039;ouverture des magasins de bricolage le...</a>
+</p>
+</li>
+<li>
+<span><time datetime="2015-02-24T15:22">15h22</time></span>
+<p class="ph3">
+<a href="/bourse/usa-poursuite-de-la-hausse-des-prix-des-logements-en-decembre-24-02-2015-1907532_81.php">USA: poursuite de la hausse des prix des logements en décembre</a>
+</p>
+</li>
+<li>
+<span><time datetime="2015-02-24T15:22">15h22</time></span>
+<p class="ph3">
+<a href="/bourse/l-euro-baisse-legerement-face-au-dollar-dans-un-marche-prudent-24-02-2015-1907531_81.php">L&#039;euro baisse légèrement face au dollar dans un marché prudent</a>
+</p>
+</li>
+<li>
+<span><time datetime="2015-02-24T15:19">15h19</time></span>
+<p class="ph3">
+<a href="/politique/francois-hollande-tente-de-reconcilier-roger-cukierman-et-dalil-boubakeur-24-02-2015-1907525_20.php">François Hollande tente de réconcilier Roger Cukierman et Dalil...</a>
+</p>
+</li>
+<li>
+<span><time datetime="2015-02-24T15:18">15h18</time></span>
+<p class="ph3">
+<a href="/chroniqueurs-du-point/guerric-poncet/drones-a-paris-comment-mettre-fin-aux-survols-24-02-2015-1907529_506.php">Drones à Paris : comment mettre fin aux survols ?</a>
+</p>
+</li>
+<li>
+<span><time datetime="2015-02-24T15:16">15h16</time></span>
+<p class="ph3">
+<a href="/societe/tabac-consommation-en-legere-baisse-preoccupante-chez-les-femmes-enceintes-24-02-2015-1907530_23.php">Tabac : consommation en légère baisse, préoccupante chez les femmes...</a>
+</p>
+</li>
+<li>
+<span><time datetime="2015-02-24T15:07">15h07</time></span>
+<p class="ph3">
+<a href="/monde/ukraine-appel-a-la-mise-en-oeuvre-stricte-des-accords-de-minsk-24-02-2015-1907528_24.php">Ukraine: appel à la mise en oeuvre &quot;stricte&quot; des accords de Minsk</a>
+</p>
+</li>
+<li>
+<span><time datetime="2015-02-24T14:55">14h55</time></span>
+<p class="ph3">
+<a href="/sport/football/ligue-des-champions-manchester-city-barcelone-a-suivre-en-direct-des-20-h-45-sur-le-point-fr-24-02-2015-1907526_1858.php">Ligue des champions : Manchester City-Barcelone à suivre en direct...</a>
+</p>
+</li>
+<li>
+<span><time datetime="2015-02-24T14:54">14h54</time></span>
+<p class="ph3">
+<a href="/politique/filippetti-s-insurge-contre-hollande-et-l-expression-francais-de-souche-24-02-2015-1907516_20.php">Filippetti s&#039;insurge contre Hollande et l&#039;expression &quot;Français de...</a>
+</p>
+</li>
+<li>
+<span><time datetime="2015-02-24T14:54">14h54</time></span>
+<p class="ph3">
+<a href="/art-de-vivre/5-raisons-de-s-offrir-une-nuit-ou-un-verre-dans-un-palace-parisien-24-02-2015-1907377_4.php">5 raisons de s&#039;offrir une nuit - ou un verre - dans un palace parisien</a>
+</p>
+</li>
+<li>
+<span><time datetime="2015-02-24T14:54">14h54</time></span>
+<p class="ph3">
+<a href="/sport/six-nations-quatre-changements-retour-de-north-chez-les-gallois-24-02-2015-1907524_26.php">Six nations: quatre changements, retour de North chez les Gallois</a>
+</p>
+</li>
+<li>
+<span><time datetime="2015-02-24T14:53">14h53</time></span>
+<p class="ph3">
+<a href="/economie/en-moselle-aussi-on-pourra-travailler-le-dimanche-24-02-2015-1907523_28.php">En Moselle aussi, on pourra travailler le dimanche</a>
+</p>
+</li>
+</ul>
+<span class="nb">&nbsp;</span>
+<a class="tous" href="/24h-infos/">Toute l'actualité en direct</a>
+</div>
+<!--/BLOC RUBRIQUE - 300 - Dernière minute - AUTOCMS-->
+<!--BLOC Le Point - 300 - Pub Haut en 1 - POS 2 - STATIC-->
+<!--bH:-->
+<!-- pub haut pavé -->
+<div class="pub" id="pavehaut">
+<script language="javascript" type="text/javascript">
+//<![CDATA[
+document.write('<scr'+'ipt type="text/javascript" src="http://ad.fr.doubleclick.net/N7750430/adj/ts.lepoint.fr/'+rub+';tile='+(tile=tile+1)+';thematique='+thematique+';sousthema='+sousthema+';auteur='+auteur+';dossier='+dossier+';marque='+marque+';recherche='+recherche+';type='+type+';pos=haut;sz=300x250;compte='+compte+';abonne='+abonne+';freemium='+freemium+';tronque='+tronque+';ord=' + ord + '?"><\/script>');
+//]]>
+</script>
+</div>
+<!-- Fin pub Hautpavé -->
+<!-- Test affichage pub pavé haut-->
+<!--/BLOC Le Point - 300 - Pub Haut en 1 - POS 2 - STATIC-->
+<!--BLOC RUBRIQUE - 300 - Abo Newsletter - POS 3 - STATIC-->
+<!--bH:-->
+<div class="bloc" id="abo_newsletter" style="overflow:hidden;">
+<div class="t">
+<p class="ph3">Inscrivez-vous à la newsletter</p>
+Et restez connecté à l'actualité au quotidien.<br />
+</div>
+<form id="bloc_newsletter" action="#" method="get" name="bloc_newsletter" onSubmit="return submitnl()" target="_blank">
+<input id="nlmail" class="abonnementNL" type="text" placeholder="Votre e-mail" name="mail" />
+<input type="hidden" value="nlr" name="origine" />
+<input type="hidden" value="nl13h,nl8h,offrespoint" name="nl" />
+<input class="boutonNL" type="submit" onClick="return xt_click(this,'F','214','Abonnez-vous_a_notre_newsletter')" name="go" value="Je m'inscris" />
+</form>
+</div>
+<div id="amessagenl" style="display:none">
+<div id="messagenl" style="padding:50px" > </div>
+</div>
+<script type="text/javascript">
+function submitnl()
+{
+var url = 'http://boc.lepoint.fr';
+var url2 = 'http://www.lepoint.fr'
+jQuery.post(url2+'/html/lepoint/clientnl.php?'+jQuery('#bloc_newsletter').serialize()+'&url='+url,
+function(data) {
+if(data["resultat"] == "ok" && data["raison"] ==
+"precompte" )
+{
+document.location.href=url+"/campagne/inscription/origine/nlr/email/"+$("#nlmail").val();
+}
+else
+{
+jQuery('#messagenl').html(data['message']);
+jQuery('#amessagenl').colorbox({open:true,inline:true, href:"#messagenl"});
+}
+},
+'json');
+return false;
+//});
+}
+</script>
+<!-- BLOC EN VENTE -->
+<!--/BLOC RUBRIQUE - 300 - Abo Newsletter - POS 3 - STATIC-->
+<!--BLOC RUBRIQUE - 300 - Timeline Twitter - POS 4 - Favorit du Point-->
+<!--bMexe - bloc_twitter_timeline.tpl-->
+<section class="tl-block mbm">
+<header class="tl-header">
+<div class="row">
+<span class="tl-header-icon">
+<i class="fa fa-twitter"></i>
+</span>
+<span class="tl-header-title">
+<span class="heading bigger font-white">
+<!-- User Title -->
+Le Point</span>
+</span>
+<!-- User Follow Link -->
+<a class="tl-btn-follow" target="_blank" href="https://twitter.com/intent/user?screen_name=LePoint">
+<span> Suivre <i class="fa fa-plus"></i></span>
+</a>
+</div>
+<!-- SUB-HEADER - List Timeline -->
+</header>
+<ul class="tl-timeline">
+<li class="tl-tweet background-white">
+<!-- Tweet User Logo -->
+<span class="col w60p">
+<a target="_blank" href="https://twitter.com/cdurandparenti">
+<img class="tl-profile-img" src="http://pbs.twimg.com/profile_images/509316637041106945/L_ivsb2E_normal.jpeg" alt="cdurandparenti"/>
+</a>
+</span>
+<!-- Tweet Content right -->
+<span class="col w100">
+<!-- Tweet User Infos -->
+<a target="_blank" class="block mbs" href="https://twitter.com/cdurandparenti">
+<span class="bold">Chloé Durand-Parenti</span>
+<span class="pull-right font-red">24 févr.</span>
+<span class="block font-grey-medium2">@cdurandparenti</span>
+</a>
+<!-- Tweet Content -->
+<p class="tl-tweet-text font-grey-blue-dark">Une éclipse solaire va-t-elle plonger l'Europe dans le noir ? <a target="_blank" href="http://w.lpnt.fr/1907445t">http://w.lpnt.fr/1907445t</a> #<a target="_blank" href="http://twitter.com/hashtag/Sciences">Sciences</a> via @<a target="_blank" href="http://twitter.com/LePoint">LePoint</a></p>
+<!-- Tweet Retweet | Reply | Favoris -->
+<span class="row mts">
+<!-- Tweet Infos -->
+<span class="col tl-infos" href="">
+<strong>1</strong>&nbsp;Retweet &nbsp;
+<strong>1</strong>&nbsp;Favori<!-- <i class="fa fa-caret-square-o-down font-grey-medium2"></i> Etendre -->
+</span>
+<!-- Tweet Intent -->
+<span class="col tl-intent">
+<a target="_blank" href="https://twitter.com/intent/tweet?in_reply_to=570219585074565120">
+<i class="fa fa-reply"></i>
+</a>
+<a target="_blank" href="https://twitter.com/intent/retweet?tweet_id=570219585074565120">
+<i class="fa fa-retweet"></i>
+</a>
+<a target="_blank" href="https://twitter.com/intent/favorite?tweet_id=570219585074565120">
+<i class="fa fa-star"></i>
+</a>
+</span>
+</span>
+</span>
+</li>
+<li class="tl-tweet background-white">
+<!-- Tweet User Logo -->
+<span class="col w60p">
+<a target="_blank" href="https://twitter.com/Eberretta">
+<img class="tl-profile-img" src="http://pbs.twimg.com/profile_images/530986965471334400/5X2Vt7s1_normal.jpeg" alt="Eberretta"/>
+</a>
+</span>
+<!-- Tweet Content right -->
+<span class="col w100">
+<!-- Tweet User Infos -->
+<a target="_blank" class="block mbs" href="https://twitter.com/Eberretta">
+<span class="bold">emmanuel berretta</span>
+<span class="pull-right font-red">24 févr.</span>
+<span class="block font-grey-medium2">@Eberretta</span>
+</a>
+<!-- Tweet Content -->
+<p class="tl-tweet-text font-grey-blue-dark">La nouvelle #<a target="_blank" href="http://twitter.com/hashtag/Barbie">Barbie</a>, une agent de la Stasi... au service des marques ?  <a target="_blank" href="http://w.lpnt.fr/1907512t">http://w.lpnt.fr/1907512t</a> #<a target="_blank" href="http://twitter.com/hashtag/Tech">Tech</a></p>
+<!-- Tweet Retweet | Reply | Favoris -->
+<span class="row mts">
+<!-- Tweet Infos -->
+<span class="col tl-infos" href="">
+<strong>1</strong>&nbsp;Retweet &nbsp;
+<strong>2</strong>&nbsp;Favoris<!-- <i class="fa fa-caret-square-o-down font-grey-medium2"></i> Etendre -->
+</span>
+<!-- Tweet Intent -->
+<span class="col tl-intent">
+<a target="_blank" href="https://twitter.com/intent/tweet?in_reply_to=570217207474626560">
+<i class="fa fa-reply"></i>
+</a>
+<a target="_blank" href="https://twitter.com/intent/retweet?tweet_id=570217207474626560">
+<i class="fa fa-retweet"></i>
+</a>
+<a target="_blank" href="https://twitter.com/intent/favorite?tweet_id=570217207474626560">
+<i class="fa fa-star"></i>
+</a>
+</span>
+</span>
+</span>
+</li>
+<li class="tl-tweet background-white">
+<!-- Tweet User Logo -->
+<span class="col w60p">
+<a target="_blank" href="https://twitter.com/orecasens">
+<img class="tl-profile-img" src="http://pbs.twimg.com/profile_images/528222370192830464/PFlz0rIY_normal.jpeg" alt="orecasens"/>
+</a>
+</span>
+<!-- Tweet Content right -->
+<span class="col w100">
+<!-- Tweet User Infos -->
+<a target="_blank" class="block mbs" href="https://twitter.com/orecasens">
+<span class="bold">Olivia Recasens</span>
+<span class="pull-right font-red">24 févr.</span>
+<span class="block font-grey-medium2">@orecasens</span>
+</a>
+<!-- Tweet Content -->
+<p class="tl-tweet-text font-grey-blue-dark">Une momie retrouvée dans une statue bouddhique <a target="_blank" href="http://w.lpnt.fr/1907481t">http://w.lpnt.fr/1907481t</a> #<a target="_blank" href="http://twitter.com/hashtag/Insolites">Insolites</a> via @<a target="_blank" href="http://twitter.com/LePoint">LePoint</a></p>
+<!-- Tweet Retweet | Reply | Favoris -->
+<span class="row mts">
+<!-- Tweet Infos -->
+<span class="col tl-infos" href="">
+<strong>0</strong>&nbsp;Retweet &nbsp;
+<strong>1</strong>&nbsp;Favori<!-- <i class="fa fa-caret-square-o-down font-grey-medium2"></i> Etendre -->
+</span>
+<!-- Tweet Intent -->
+<span class="col tl-intent">
+<a target="_blank" href="https://twitter.com/intent/tweet?in_reply_to=570193876062838785">
+<i class="fa fa-reply"></i>
+</a>
+<a target="_blank" href="https://twitter.com/intent/retweet?tweet_id=570193876062838785">
+<i class="fa fa-retweet"></i>
+</a>
+<a target="_blank" href="https://twitter.com/intent/favorite?tweet_id=570193876062838785">
+<i class="fa fa-star"></i>
+</a>
+</span>
+</span>
+</span>
+</li>
+<li class="tl-tweet background-white">
+<!-- Tweet User Logo -->
+<span class="col w60p">
+<a target="_blank" href="https://twitter.com/A_Jeanblanc">
+<img class="tl-profile-img" src="http://pbs.twimg.com/profile_images/555749229377769472/fobXT-eM_normal.jpeg" alt="A_Jeanblanc"/>
+</a>
+</span>
+<!-- Tweet Content right -->
+<span class="col w100">
+<!-- Tweet User Infos -->
+<a target="_blank" class="block mbs" href="https://twitter.com/A_Jeanblanc">
+<span class="bold">Anne Jeanblanc</span>
+<span class="pull-right font-red">24 févr.</span>
+<span class="block font-grey-medium2">@A_Jeanblanc</span>
+</a>
+<!-- Tweet Content -->
+<p class="tl-tweet-text font-grey-blue-dark">Sida : le traitement préventif efficace <a target="_blank" href="http://w.lpnt.fr/1907480t">http://w.lpnt.fr/1907480t</a> #<a target="_blank" href="http://twitter.com/hashtag/Sante">Sante</a> via @<a target="_blank" href="http://twitter.com/LePoint">LePoint</a></p>
+<!-- Tweet Retweet | Reply | Favoris -->
+<span class="row mts">
+<!-- Tweet Infos -->
+<span class="col tl-infos" href="">
+<strong>1</strong>&nbsp;Retweet &nbsp;
+<strong>2</strong>&nbsp;Favoris<!-- <i class="fa fa-caret-square-o-down font-grey-medium2"></i> Etendre -->
+</span>
+<!-- Tweet Intent -->
+<span class="col tl-intent">
+<a target="_blank" href="https://twitter.com/intent/tweet?in_reply_to=570183960338296832">
+<i class="fa fa-reply"></i>
+</a>
+<a target="_blank" href="https://twitter.com/intent/retweet?tweet_id=570183960338296832">
+<i class="fa fa-retweet"></i>
+</a>
+<a target="_blank" href="https://twitter.com/intent/favorite?tweet_id=570183960338296832">
+<i class="fa fa-star"></i>
+</a>
+</span>
+</span>
+</span>
+</li>
+<li class="tl-tweet background-white">
+<!-- Tweet User Logo -->
+<span class="col w60p">
+<a target="_blank" href="https://twitter.com/adrienbonetto">
+<img class="tl-profile-img" src="http://pbs.twimg.com/profile_images/471564456275623936/Rm1uaVo__normal.jpeg" alt="adrienbonetto"/>
+</a>
+</span>
+<!-- Tweet Content right -->
+<span class="col w100">
+<!-- Tweet User Infos -->
+<a target="_blank" class="block mbs" href="https://twitter.com/adrienbonetto">
+<span class="bold">Adrien Bonetto</span>
+<span class="pull-right font-red">24 févr.</span>
+<span class="block font-grey-medium2">@adrienbonetto</span>
+</a>
+<!-- Tweet Content -->
+<p class="tl-tweet-text font-grey-blue-dark">#<a target="_blank" href="http://twitter.com/hashtag/LG">LG</a>, ton univers impitoyable <a target="_blank" href="http://lpnt.fr/1wjbUZu">http://lpnt.fr/1wjbUZu</a> <a target="_blank" href="http://t.co/luRUSdo3hw">http://t.co/luRUSdo3hw</a></p>
+<!-- Media Unique -->
+<img class="rad-4" src="http://pbs.twimg.com/media/B-micBKUYAAoj4y.jpg:small"/>
+<!-- Tweet Retweet | Reply | Favoris -->
+<span class="row mts">
+<!-- Tweet Infos -->
+<span class="col tl-infos" href="">
+<strong>0</strong>&nbsp;Retweet &nbsp;
+<strong>1</strong>&nbsp;Favori<!-- <i class="fa fa-caret-square-o-down font-grey-medium2"></i> Etendre -->
+</span>
+<!-- Tweet Intent -->
+<span class="col tl-intent">
+<a target="_blank" href="https://twitter.com/intent/tweet?in_reply_to=570183904025452545">
+<i class="fa fa-reply"></i>
+</a>
+<a target="_blank" href="https://twitter.com/intent/retweet?tweet_id=570183904025452545">
+<i class="fa fa-retweet"></i>
+</a>
+<a target="_blank" href="https://twitter.com/intent/favorite?tweet_id=570183904025452545">
+<i class="fa fa-star"></i>
+</a>
+</span>
+</span>
+</span>
+</li>
+<li class="tl-tweet background-white">
+<!-- Tweet User Logo -->
+<span class="col w60p">
+<a target="_blank" href="https://twitter.com/flewino">
+<img class="tl-profile-img" src="http://pbs.twimg.com/profile_images/1479155447/Photo_du_44353586-07-___12.19_normal.jpg" alt="flewino"/>
+</a>
+</span>
+<!-- Tweet Content right -->
+<span class="col w100">
+<!-- Tweet User Infos -->
+<a target="_blank" class="block mbs" href="https://twitter.com/flewino">
+<span class="bold">Frédéric Lewino</span>
+<span class="pull-right font-red">24 févr.</span>
+<span class="block font-grey-medium2">@flewino</span>
+</a>
+<!-- Tweet Content -->
+<p class="tl-tweet-text font-grey-blue-dark">24 février 1525. À Pavie, François Ier est fait prisonnier par l'armée impériale ! <a target="_blank" href="http://w.lpnt.fr/1631586t">http://w.lpnt.fr/1631586t</a> #<a target="_blank" href="http://twitter.com/hashtag/Lewino">Lewino</a> via @<a target="_blank" href="http://twitter.com/LePoint">LePoint</a></p>
+<!-- Tweet Retweet | Reply | Favoris -->
+<span class="row mts">
+<!-- Tweet Infos -->
+<span class="col tl-infos" href="">
+<strong>0</strong>&nbsp;Retweet &nbsp;
+<strong>1</strong>&nbsp;Favori<!-- <i class="fa fa-caret-square-o-down font-grey-medium2"></i> Etendre -->
+</span>
+<!-- Tweet Intent -->
+<span class="col tl-intent">
+<a target="_blank" href="https://twitter.com/intent/tweet?in_reply_to=570167023222849536">
+<i class="fa fa-reply"></i>
+</a>
+<a target="_blank" href="https://twitter.com/intent/retweet?tweet_id=570167023222849536">
+<i class="fa fa-retweet"></i>
+</a>
+<a target="_blank" href="https://twitter.com/intent/favorite?tweet_id=570167023222849536">
+<i class="fa fa-star"></i>
+</a>
+</span>
+</span>
+</span>
+</li>
+<li class="tl-tweet background-white">
+<!-- Tweet User Logo -->
+<span class="col w60p">
+<a target="_blank" href="https://twitter.com/MarcLeplongeon">
+<img class="tl-profile-img" src="http://pbs.twimg.com/profile_images/2541266030/bqs3nxk2zw17x2t0zgu8_normal.png" alt="MarcLeplongeon"/>
+</a>
+</span>
+<!-- Tweet Content right -->
+<span class="col w100">
+<!-- Tweet User Infos -->
+<a target="_blank" class="block mbs" href="https://twitter.com/MarcLeplongeon">
+<span class="bold">Marc Leplongeon</span>
+<span class="pull-right font-red">24 févr.</span>
+<span class="block font-grey-medium2">@MarcLeplongeon</span>
+</a>
+<!-- Tweet Content -->
+<p class="tl-tweet-text font-grey-blue-dark">Tirs à la kalachnikov le 9 février à Marseille : revivez en images l'intervention de la police <a target="_blank" href="http://t.co/dJUYvOcBeZ">http://t.co/dJUYvOcBeZ</a> @<a target="_blank" href="http://twitter.com/LePoint">LePoint</a></p>
+<!-- Tweet Retweet | Reply | Favoris -->
+<span class="row mts">
+<!-- Tweet Infos -->
+<span class="col tl-infos" href="">
+<strong>0</strong>&nbsp;Retweet &nbsp;
+<strong>1</strong>&nbsp;Favori<!-- <i class="fa fa-caret-square-o-down font-grey-medium2"></i> Etendre -->
+</span>
+<!-- Tweet Intent -->
+<span class="col tl-intent">
+<a target="_blank" href="https://twitter.com/intent/tweet?in_reply_to=570161701523472384">
+<i class="fa fa-reply"></i>
+</a>
+<a target="_blank" href="https://twitter.com/intent/retweet?tweet_id=570161701523472384">
+<i class="fa fa-retweet"></i>
+</a>
+<a target="_blank" href="https://twitter.com/intent/favorite?tweet_id=570161701523472384">
+<i class="fa fa-star"></i>
+</a>
+</span>
+</span>
+</span>
+</li>
+<li class="tl-tweet background-white">
+<!-- Tweet User Logo -->
+<span class="col w60p">
+<a target="_blank" href="https://twitter.com/guerricp">
+<img class="tl-profile-img" src="http://pbs.twimg.com/profile_images/557208000272670720/1Mm2oMjQ_normal.jpeg" alt="guerricp"/>
+</a>
+</span>
+<!-- Tweet Content right -->
+<span class="col w100">
+<!-- Tweet User Infos -->
+<a target="_blank" class="block mbs" href="https://twitter.com/guerricp">
+<span class="bold">Guerric Poncet</span>
+<span class="pull-right font-red">24 févr.</span>
+<span class="block font-grey-medium2">@guerricp</span>
+</a>
+<!-- Tweet Content -->
+<p class="tl-tweet-text font-grey-blue-dark">#<a target="_blank" href="http://twitter.com/hashtag/Smartphones">Smartphones</a>: la start-up @<a target="_blank" href="http://twitter.com/back_market">back_market</a> lance une campagne décalée contre l'#<a target="_blank" href="http://twitter.com/hashtag/obsolescence">obsolescence</a> programmée <a target="_blank" href="http://w.lpnt.fr/1907379t">http://w.lpnt.fr/1907379t</a> @<a target="_blank" href="http://twitter.com/Numaparis">Numaparis</a></p>
+<!-- Tweet Retweet | Reply | Favoris -->
+<span class="row mts">
+<!-- Tweet Infos -->
+<span class="col tl-infos" href="">
+<strong>2</strong>&nbsp;Retweets &nbsp;
+<strong>3</strong>&nbsp;Favoris<!-- <i class="fa fa-caret-square-o-down font-grey-medium2"></i> Etendre -->
+</span>
+<!-- Tweet Intent -->
+<span class="col tl-intent">
+<a target="_blank" href="https://twitter.com/intent/tweet?in_reply_to=570153896947126272">
+<i class="fa fa-reply"></i>
+</a>
+<a target="_blank" href="https://twitter.com/intent/retweet?tweet_id=570153896947126272">
+<i class="fa fa-retweet"></i>
+</a>
+<a target="_blank" href="https://twitter.com/intent/favorite?tweet_id=570153896947126272">
+<i class="fa fa-star"></i>
+</a>
+</span>
+</span>
+</span>
+</li>
+<li class="tl-tweet background-white">
+<!-- Tweet User Logo -->
+<span class="col w60p">
+<a target="_blank" href="https://twitter.com/guerricp">
+<img class="tl-profile-img" src="http://pbs.twimg.com/profile_images/557208000272670720/1Mm2oMjQ_normal.jpeg" alt="guerricp"/>
+</a>
+</span>
+<!-- Tweet Content right -->
+<span class="col w100">
+<!-- Tweet User Infos -->
+<a target="_blank" class="block mbs" href="https://twitter.com/guerricp">
+<span class="bold">Guerric Poncet</span>
+<span class="pull-right font-red">24 févr.</span>
+<span class="block font-grey-medium2">@guerricp</span>
+</a>
+<!-- Tweet Content -->
+<p class="tl-tweet-text font-grey-blue-dark">Le piratage à #<a target="_blank" href="http://twitter.com/hashtag/Lyon-3">Lyon-3</a> pire qu'annoncé : les étudiants pouvaient consulter les notes des autres <a target="_blank" href="http://w.lpnt.fr/1907378t">http://w.lpnt.fr/1907378t</a> @<a target="_blank" href="http://twitter.com/MduqN">MduqN</a> v @<a target="_blank" href="http://twitter.com/LePoint">LePoint</a></p>
+<!-- Tweet Retweet | Reply | Favoris -->
+<span class="row mts">
+<!-- Tweet Infos -->
+<span class="col tl-infos" href="">
+<strong>2</strong>&nbsp;Retweets &nbsp;
+<strong>1</strong>&nbsp;Favori<!-- <i class="fa fa-caret-square-o-down font-grey-medium2"></i> Etendre -->
+</span>
+<!-- Tweet Intent -->
+<span class="col tl-intent">
+<a target="_blank" href="https://twitter.com/intent/tweet?in_reply_to=570140044234772480">
+<i class="fa fa-reply"></i>
+</a>
+<a target="_blank" href="https://twitter.com/intent/retweet?tweet_id=570140044234772480">
+<i class="fa fa-retweet"></i>
+</a>
+<a target="_blank" href="https://twitter.com/intent/favorite?tweet_id=570140044234772480">
+<i class="fa fa-star"></i>
+</a>
+</span>
+</span>
+</span>
+</li>
+<li class="tl-tweet background-white">
+<!-- Tweet User Logo -->
+<span class="col w60p">
+<a target="_blank" href="https://twitter.com/yvesmaro">
+<img class="tl-profile-img" src="http://pbs.twimg.com/profile_images/522048102052548608/XS7mJozx_normal.jpeg" alt="yvesmaro"/>
+</a>
+</span>
+<!-- Tweet Content right -->
+<span class="col w100">
+<!-- Tweet User Infos -->
+<a target="_blank" class="block mbs" href="https://twitter.com/yvesmaro">
+<span class="bold">yves maroselli</span>
+<span class="pull-right font-red">24 févr.</span>
+<span class="block font-grey-medium2">@yvesmaro</span>
+</a>
+<!-- Tweet Content -->
+<p class="tl-tweet-text font-grey-blue-dark">Qoros 3 City SUV : le #<a target="_blank" href="http://twitter.com/hashtag/Qashqai">Qashqai</a> #<a target="_blank" href="http://twitter.com/hashtag/chinois">chinois</a> <a target="_blank" href="http://w.lpnt.fr/1907425t">http://w.lpnt.fr/1907425t</a> #<a target="_blank" href="http://twitter.com/hashtag/Salons">Salons</a> via @<a target="_blank" href="http://twitter.com/LePoint">LePoint</a></p>
+<!-- Tweet Retweet | Reply | Favoris -->
+<span class="row mts">
+<!-- Tweet Infos -->
+<span class="col tl-infos" href="">
+<strong>0</strong>&nbsp;Retweet &nbsp;
+<strong>1</strong>&nbsp;Favori<!-- <i class="fa fa-caret-square-o-down font-grey-medium2"></i> Etendre -->
+</span>
+<!-- Tweet Intent -->
+<span class="col tl-intent">
+<a target="_blank" href="https://twitter.com/intent/tweet?in_reply_to=570139312798502912">
+<i class="fa fa-reply"></i>
+</a>
+<a target="_blank" href="https://twitter.com/intent/retweet?tweet_id=570139312798502912">
+<i class="fa fa-retweet"></i>
+</a>
+<a target="_blank" href="https://twitter.com/intent/favorite?tweet_id=570139312798502912">
+<i class="fa fa-star"></i>
+</a>
+</span>
+</span>
+</span>
+</li>
+<li class="tl-tweet background-white">
+<!-- Tweet User Logo -->
+<span class="col w60p">
+<a target="_blank" href="https://twitter.com/adrienbonetto">
+<img class="tl-profile-img" src="http://pbs.twimg.com/profile_images/471564456275623936/Rm1uaVo__normal.jpeg" alt="adrienbonetto"/>
+</a>
+</span>
+<!-- Tweet Content right -->
+<span class="col w100">
+<!-- Tweet User Infos -->
+<a target="_blank" class="block mbs" href="https://twitter.com/adrienbonetto">
+<span class="bold">Adrien Bonetto</span>
+<span class="pull-right font-red">24 févr.</span>
+<span class="block font-grey-medium2">@adrienbonetto</span>
+</a>
+<!-- Tweet Content -->
+<p class="tl-tweet-text font-grey-blue-dark">L'article le plus lu hier sur @<a target="_blank" href="http://twitter.com/LePoint">LePoint</a> &gt;&gt; <a target="_blank" href="http://lpnt.fr/1EHSyMC">http://lpnt.fr/1EHSyMC</a> <a target="_blank" href="http://t.co/w9YIcZ1q6u">http://t.co/w9YIcZ1q6u</a></p>
+<!-- Media Unique -->
+<img class="rad-4" src="http://pbs.twimg.com/media/B-l7p0gUsAArY51.jpg:small"/>
+<!-- Tweet Retweet | Reply | Favoris -->
+<span class="row mts">
+<!-- Tweet Infos -->
+<span class="col tl-infos" href="">
+<strong>0</strong>&nbsp;Retweet &nbsp;
+<strong>1</strong>&nbsp;Favori<!-- <i class="fa fa-caret-square-o-down font-grey-medium2"></i> Etendre -->
+</span>
+<!-- Tweet Intent -->
+<span class="col tl-intent">
+<a target="_blank" href="https://twitter.com/intent/tweet?in_reply_to=570124245004480513">
+<i class="fa fa-reply"></i>
+</a>
+<a target="_blank" href="https://twitter.com/intent/retweet?tweet_id=570124245004480513">
+<i class="fa fa-retweet"></i>
+</a>
+<a target="_blank" href="https://twitter.com/intent/favorite?tweet_id=570124245004480513">
+<i class="fa fa-star"></i>
+</a>
+</span>
+</span>
+</span>
+</li>
+<li class="tl-tweet background-white">
+<!-- Tweet User Logo -->
+<span class="col w60p">
+<a target="_blank" href="https://twitter.com/orecasens">
+<img class="tl-profile-img" src="http://pbs.twimg.com/profile_images/528222370192830464/PFlz0rIY_normal.jpeg" alt="orecasens"/>
+</a>
+</span>
+<!-- Tweet Content right -->
+<span class="col w100">
+<!-- Tweet User Infos -->
+<a target="_blank" class="block mbs" href="https://twitter.com/orecasens">
+<span class="bold">Olivia Recasens</span>
+<span class="pull-right font-red">23 févr.</span>
+<span class="block font-grey-medium2">@orecasens</span>
+</a>
+<!-- Tweet Content -->
+<p class="tl-tweet-text font-grey-blue-dark">Galactéros : Europe/Poutine : notre autisme stratégique <a target="_blank" href="http://w.lpnt.fr/1907228t">http://w.lpnt.fr/1907228t</a> #<a target="_blank" href="http://twitter.com/hashtag/International">International</a> via @<a target="_blank" href="http://twitter.com/LePoint">LePoint</a></p>
+<!-- Tweet Retweet | Reply | Favoris -->
+<span class="row mts">
+<!-- Tweet Infos -->
+<span class="col tl-infos" href="">
+<strong>0</strong>&nbsp;Retweet &nbsp;
+<strong>1</strong>&nbsp;Favori<!-- <i class="fa fa-caret-square-o-down font-grey-medium2"></i> Etendre -->
+</span>
+<!-- Tweet Intent -->
+<span class="col tl-intent">
+<a target="_blank" href="https://twitter.com/intent/tweet?in_reply_to=569933631709425664">
+<i class="fa fa-reply"></i>
+</a>
+<a target="_blank" href="https://twitter.com/intent/retweet?tweet_id=569933631709425664">
+<i class="fa fa-retweet"></i>
+</a>
+<a target="_blank" href="https://twitter.com/intent/favorite?tweet_id=569933631709425664">
+<i class="fa fa-star"></i>
+</a>
+</span>
+</span>
+</span>
+</li>
+<li class="tl-tweet background-white">
+<!-- Tweet User Logo -->
+<span class="col w60p">
+<a target="_blank" href="https://twitter.com/Eberretta">
+<img class="tl-profile-img" src="http://pbs.twimg.com/profile_images/530986965471334400/5X2Vt7s1_normal.jpeg" alt="Eberretta"/>
+</a>
+</span>
+<!-- Tweet Content right -->
+<span class="col w100">
+<!-- Tweet User Infos -->
+<a target="_blank" class="block mbs" href="https://twitter.com/Eberretta">
+<span class="bold">emmanuel berretta</span>
+<span class="pull-right font-red">23 févr.</span>
+<span class="block font-grey-medium2">@Eberretta</span>
+</a>
+<!-- Tweet Content -->
+<p class="tl-tweet-text font-grey-blue-dark">Une nouvelle puissance capitaliste est née après les 200 familles,"Charlie Hebdo" refait un numéro de millionnaire ! <a target="_blank" href="http://w.lpnt.fr/1907298t">http://w.lpnt.fr/1907298t</a></p>
+<!-- Tweet Retweet | Reply | Favoris -->
+<span class="row mts">
+<!-- Tweet Infos -->
+<span class="col tl-infos" href="">
+<strong>2</strong>&nbsp;Retweets &nbsp;
+<strong>2</strong>&nbsp;Favoris<!-- <i class="fa fa-caret-square-o-down font-grey-medium2"></i> Etendre -->
+</span>
+<!-- Tweet Intent -->
+<span class="col tl-intent">
+<a target="_blank" href="https://twitter.com/intent/tweet?in_reply_to=569920487201112064">
+<i class="fa fa-reply"></i>
+</a>
+<a target="_blank" href="https://twitter.com/intent/retweet?tweet_id=569920487201112064">
+<i class="fa fa-retweet"></i>
+</a>
+<a target="_blank" href="https://twitter.com/intent/favorite?tweet_id=569920487201112064">
+<i class="fa fa-star"></i>
+</a>
+</span>
+</span>
+</span>
+</li>
+<li class="tl-tweet background-white">
+<!-- Tweet User Logo -->
+<span class="col w60p">
+<a target="_blank" href="https://twitter.com/guerricp">
+<img class="tl-profile-img" src="http://pbs.twimg.com/profile_images/557208000272670720/1Mm2oMjQ_normal.jpeg" alt="guerricp"/>
+</a>
+</span>
+<!-- Tweet Content right -->
+<span class="col w100">
+<!-- Tweet User Infos -->
+<a target="_blank" class="block mbs" href="https://twitter.com/guerricp">
+<span class="bold">Guerric Poncet</span>
+<span class="pull-right font-red">23 févr.</span>
+<span class="block font-grey-medium2">@guerricp</span>
+</a>
+<!-- Tweet Content -->
+<p class="tl-tweet-text font-grey-blue-dark">Le maire de #<a target="_blank" href="http://twitter.com/hashtag/Jérusalem">Jérusalem</a>, gardien de la paix avant tout <a target="_blank" href="http://w.lpnt.fr/1907183t">http://w.lpnt.fr/1907183t</a> via @<a target="_blank" href="http://twitter.com/LePoint">LePoint</a> @<a target="_blank" href="http://twitter.com/Dailymotion">Dailymotion</a> @<a target="_blank" href="http://twitter.com/ArminArefi">ArminArefi</a></p>
+<!-- Tweet Retweet | Reply | Favoris -->
+<span class="row mts">
+<!-- Tweet Infos -->
+<span class="col tl-infos" href="">
+<strong>2</strong>&nbsp;Retweets &nbsp;
+<strong>2</strong>&nbsp;Favoris<!-- <i class="fa fa-caret-square-o-down font-grey-medium2"></i> Etendre -->
+</span>
+<!-- Tweet Intent -->
+<span class="col tl-intent">
+<a target="_blank" href="https://twitter.com/intent/tweet?in_reply_to=569912160618483712">
+<i class="fa fa-reply"></i>
+</a>
+<a target="_blank" href="https://twitter.com/intent/retweet?tweet_id=569912160618483712">
+<i class="fa fa-retweet"></i>
+</a>
+<a target="_blank" href="https://twitter.com/intent/favorite?tweet_id=569912160618483712">
+<i class="fa fa-star"></i>
+</a>
+</span>
+</span>
+</span>
+</li>
+<li class="tl-tweet background-white">
+<!-- Tweet User Logo -->
+<span class="col w60p">
+<a target="_blank" href="https://twitter.com/arminarefi">
+<img class="tl-profile-img" src="http://pbs.twimg.com/profile_images/1383291350/dscn0777-copie.1255803093.miniature_normal.JPG" alt="arminarefi"/>
+</a>
+</span>
+<!-- Tweet Content right -->
+<span class="col w100">
+<!-- Tweet User Infos -->
+<a target="_blank" class="block mbs" href="https://twitter.com/arminarefi">
+<span class="bold">Armin Arefi</span>
+<span class="pull-right font-red">23 févr.</span>
+<span class="block font-grey-medium2">@arminarefi</span>
+</a>
+<!-- Tweet Content -->
+<p class="tl-tweet-text font-grey-blue-dark">En Syrie, le régime continue à massacrer les civils <a target="_blank" href="http://w.lpnt.fr/1907207t">http://w.lpnt.fr/1907207t</a> #<a target="_blank" href="http://twitter.com/hashtag/International">International</a> via @<a target="_blank" href="http://twitter.com/LePoint">LePoint</a></p>
+<!-- Tweet Retweet | Reply | Favoris -->
+<span class="row mts">
+<!-- Tweet Infos -->
+<span class="col tl-infos" href="">
+<strong>2</strong>&nbsp;Retweets &nbsp;
+<strong>2</strong>&nbsp;Favoris<!-- <i class="fa fa-caret-square-o-down font-grey-medium2"></i> Etendre -->
+</span>
+<!-- Tweet Intent -->
+<span class="col tl-intent">
+<a target="_blank" href="https://twitter.com/intent/tweet?in_reply_to=569866107932315648">
+<i class="fa fa-reply"></i>
+</a>
+<a target="_blank" href="https://twitter.com/intent/retweet?tweet_id=569866107932315648">
+<i class="fa fa-retweet"></i>
+</a>
+<a target="_blank" href="https://twitter.com/intent/favorite?tweet_id=569866107932315648">
+<i class="fa fa-star"></i>
+</a>
+</span>
+</span>
+</span>
+</li>
+<li class="tl-tweet background-white">
+<!-- Tweet User Logo -->
+<span class="col w60p">
+<a target="_blank" href="https://twitter.com/guerricp">
+<img class="tl-profile-img" src="http://pbs.twimg.com/profile_images/557208000272670720/1Mm2oMjQ_normal.jpeg" alt="guerricp"/>
+</a>
+</span>
+<!-- Tweet Content right -->
+<span class="col w100">
+<!-- Tweet User Infos -->
+<a target="_blank" class="block mbs" href="https://twitter.com/guerricp">
+<span class="bold">Guerric Poncet</span>
+<span class="pull-right font-red">23 févr.</span>
+<span class="block font-grey-medium2">@guerricp</span>
+</a>
+<!-- Tweet Content -->
+<p class="tl-tweet-text font-grey-blue-dark">La vidéo d'un juif à Paris suscite des critiques ; le journaliste était porte-parole de l'armée israélienne <a target="_blank" href="http://w.lpnt.fr/1907222t">http://w.lpnt.fr/1907222t</a> @<a target="_blank" href="http://twitter.com/LePoint">LePoint</a></p>
+<!-- Tweet Retweet | Reply | Favoris -->
+<span class="row mts">
+<!-- Tweet Infos -->
+<span class="col tl-infos" href="">
+<strong>2</strong>&nbsp;Retweets &nbsp;
+<strong>1</strong>&nbsp;Favori<!-- <i class="fa fa-caret-square-o-down font-grey-medium2"></i> Etendre -->
+</span>
+<!-- Tweet Intent -->
+<span class="col tl-intent">
+<a target="_blank" href="https://twitter.com/intent/tweet?in_reply_to=569865955792154624">
+<i class="fa fa-reply"></i>
+</a>
+<a target="_blank" href="https://twitter.com/intent/retweet?tweet_id=569865955792154624">
+<i class="fa fa-retweet"></i>
+</a>
+<a target="_blank" href="https://twitter.com/intent/favorite?tweet_id=569865955792154624">
+<i class="fa fa-star"></i>
+</a>
+</span>
+</span>
+</span>
+</li>
+<li class="tl-tweet background-white">
+<!-- Tweet User Logo -->
+<span class="col w60p">
+<a target="_blank" href="https://twitter.com/LePointAfrique">
+<img class="tl-profile-img" src="http://pbs.twimg.com/profile_images/446685017133969408/0UBWGySs_normal.png" alt="LePointAfrique"/>
+</a>
+</span>
+<!-- Tweet Content right -->
+<span class="col w100">
+<!-- Tweet User Infos -->
+<a target="_blank" class="block mbs" href="https://twitter.com/LePointAfrique">
+<span class="bold">Le Point Afrique</span>
+<span class="pull-right font-red">23 févr.</span>
+<span class="block font-grey-medium2">@LePointAfrique</span>
+</a>
+<!-- Tweet Content -->
+<p class="tl-tweet-text font-grey-blue-dark">Côte d'Ivoire - Simone #<a target="_blank" href="http://twitter.com/hashtag/Gbagbo">Gbagbo</a> : "Je ne sais pas ce qu'on me reproche" <a target="_blank" href="http://lpnt.fr/1FOspPZ">http://lpnt.fr/1FOspPZ</a> <a target="_blank" href="http://t.co/MR0Z0UrnPP">http://t.co/MR0Z0UrnPP</a></p>
+<!-- Media Unique -->
+<img class="rad-4" src="http://pbs.twimg.com/media/B-iQre4IIAADGP9.jpg:small"/>
+<!-- Tweet Retweet | Reply | Favoris -->
+<span class="row mts">
+<!-- Tweet Infos -->
+<span class="col tl-infos" href="">
+<strong>12</strong>&nbsp;Retweets &nbsp;
+<strong>6</strong>&nbsp;Favoris<!-- <i class="fa fa-caret-square-o-down font-grey-medium2"></i> Etendre -->
+</span>
+<!-- Tweet Intent -->
+<span class="col tl-intent">
+<a target="_blank" href="https://twitter.com/intent/tweet?in_reply_to=569864430147768320">
+<i class="fa fa-reply"></i>
+</a>
+<a target="_blank" href="https://twitter.com/intent/retweet?tweet_id=569864430147768320">
+<i class="fa fa-retweet"></i>
+</a>
+<a target="_blank" href="https://twitter.com/intent/favorite?tweet_id=569864430147768320">
+<i class="fa fa-star"></i>
+</a>
+</span>
+</span>
+</span>
+</li>
+<li class="tl-tweet background-white">
+<!-- Tweet User Logo -->
+<span class="col w60p">
+<a target="_blank" href="https://twitter.com/LePointAfrique">
+<img class="tl-profile-img" src="http://pbs.twimg.com/profile_images/446685017133969408/0UBWGySs_normal.png" alt="LePointAfrique"/>
+</a>
+</span>
+<!-- Tweet Content right -->
+<span class="col w100">
+<!-- Tweet User Infos -->
+<a target="_blank" class="block mbs" href="https://twitter.com/LePointAfrique">
+<span class="bold">Le Point Afrique</span>
+<span class="pull-right font-red">23 févr.</span>
+<span class="block font-grey-medium2">@LePointAfrique</span>
+</a>
+<!-- Tweet Content -->
+<p class="tl-tweet-text font-grey-blue-dark">VIDÉO #<a target="_blank" href="http://twitter.com/hashtag/Somalie">Somalie</a> : pourquoi les #<a target="_blank" href="http://twitter.com/hashtag/shebabs">shebabs</a> menacent la France <a target="_blank" href="http://lpnt.fr/1zaqDR5">http://lpnt.fr/1zaqDR5</a> Par @<a target="_blank" href="http://twitter.com/ClaireMeynial">ClaireMeynial</a> <a target="_blank" href="http://t.co/cqSCBnXEIP">http://t.co/cqSCBnXEIP</a></p>
+<!-- Media Unique -->
+<img class="rad-4" src="http://pbs.twimg.com/media/B-iMKFCIMAAHfX7.jpg:small"/>
+<!-- Tweet Retweet | Reply | Favoris -->
+<span class="row mts">
+<!-- Tweet Infos -->
+<span class="col tl-infos" href="">
+<strong>19</strong>&nbsp;Retweets &nbsp;
+<strong>3</strong>&nbsp;Favoris<!-- <i class="fa fa-caret-square-o-down font-grey-medium2"></i> Etendre -->
+</span>
+<!-- Tweet Intent -->
+<span class="col tl-intent">
+<a target="_blank" href="https://twitter.com/intent/tweet?in_reply_to=569859458395811840">
+<i class="fa fa-reply"></i>
+</a>
+<a target="_blank" href="https://twitter.com/intent/retweet?tweet_id=569859458395811840">
+<i class="fa fa-retweet"></i>
+</a>
+<a target="_blank" href="https://twitter.com/intent/favorite?tweet_id=569859458395811840">
+<i class="fa fa-star"></i>
+</a>
+</span>
+</span>
+</span>
+</li>
+<li class="tl-tweet background-white">
+<!-- Tweet User Logo -->
+<span class="col w60p">
+<a target="_blank" href="https://twitter.com/jeanguisnel">
+<img class="tl-profile-img" src="http://pbs.twimg.com/profile_images/3474784315/fdbe0a435009c7a7978c3d46e8942f7a_normal.jpeg" alt="jeanguisnel"/>
+</a>
+</span>
+<!-- Tweet Content right -->
+<span class="col w100">
+<!-- Tweet User Infos -->
+<a target="_blank" class="block mbs" href="https://twitter.com/jeanguisnel">
+<span class="bold">Jean Guisnel </span>
+<span class="pull-right font-red">23 févr.</span>
+<span class="block font-grey-medium2">@jeanguisnel</span>
+</a>
+<!-- Tweet Content -->
+<p class="tl-tweet-text font-grey-blue-dark">Daesh : le "Charles de Gaulle" entre dans la danse <a target="_blank" href="http://t.co/YzW3AQzdov">http://t.co/YzW3AQzdov</a> via @<a target="_blank" href="http://twitter.com/LePoint">LePoint</a></p>
+<!-- Tweet Retweet | Reply | Favoris -->
+<span class="row mts">
+<!-- Tweet Infos -->
+<span class="col tl-infos" href="">
+<strong>3</strong>&nbsp;Retweets &nbsp;
+<strong>1</strong>&nbsp;Favori<!-- <i class="fa fa-caret-square-o-down font-grey-medium2"></i> Etendre -->
+</span>
+<!-- Tweet Intent -->
+<span class="col tl-intent">
+<a target="_blank" href="https://twitter.com/intent/tweet?in_reply_to=569851512781967360">
+<i class="fa fa-reply"></i>
+</a>
+<a target="_blank" href="https://twitter.com/intent/retweet?tweet_id=569851512781967360">
+<i class="fa fa-retweet"></i>
+</a>
+<a target="_blank" href="https://twitter.com/intent/favorite?tweet_id=569851512781967360">
+<i class="fa fa-star"></i>
+</a>
+</span>
+</span>
+</span>
+</li>
+<li class="tl-tweet background-white">
+<!-- Tweet User Logo -->
+<span class="col w60p">
+<a target="_blank" href="https://twitter.com/julie_kara2">
+<img class="tl-profile-img" src="http://pbs.twimg.com/profile_images/458688825699483648/rWHFt8Es_normal.jpeg" alt="julie_kara2"/>
+</a>
+</span>
+<!-- Tweet Content right -->
+<span class="col w100">
+<!-- Tweet User Infos -->
+<a target="_blank" class="block mbs" href="https://twitter.com/julie_kara2">
+<span class="bold">Julie Kara</span>
+<span class="pull-right font-red">23 févr.</span>
+<span class="block font-grey-medium2">@julie_kara2</span>
+</a>
+<!-- Tweet Content -->
+<p class="tl-tweet-text font-grey-blue-dark">En #<a target="_blank" href="http://twitter.com/hashtag/Syrie">Syrie</a>, le régime continue à massacrer les civils @<a target="_blank" href="http://twitter.com/mariekostrz">mariekostrz</a> <a target="_blank" href="http://t.co/WgoVN2JyfI">http://t.co/WgoVN2JyfI</a> <a target="_blank" href="http://t.co/1NjgGjHIVZ">http://t.co/1NjgGjHIVZ</a></p>
+<!-- Media Unique -->
+<img class="rad-4" src="http://pbs.twimg.com/media/B-hurnMCUAETsqD.jpg:small"/>
+<!-- Tweet Retweet | Reply | Favoris -->
+<span class="row mts">
+<!-- Tweet Infos -->
+<span class="col tl-infos" href="">
+<strong>13</strong>&nbsp;Retweets &nbsp;
+<strong>7</strong>&nbsp;Favoris<!-- <i class="fa fa-caret-square-o-down font-grey-medium2"></i> Etendre -->
+</span>
+<!-- Tweet Intent -->
+<span class="col tl-intent">
+<a target="_blank" href="https://twitter.com/intent/tweet?in_reply_to=569827049403236353">
+<i class="fa fa-reply"></i>
+</a>
+<a target="_blank" href="https://twitter.com/intent/retweet?tweet_id=569827049403236353">
+<i class="fa fa-retweet"></i>
+</a>
+<a target="_blank" href="https://twitter.com/intent/favorite?tweet_id=569827049403236353">
+<i class="fa fa-star"></i>
+</a>
+</span>
+</span>
+</span>
+</li>
+</ul>
+<footer class="tl-footer txtcenter">
+<!-- FOOTER - User Timeline -->
+<strong>95 371</strong> Tweets </span> &nbsp;
+<!--<strong>763</strong> Abonnements </span> &nbsp; -->
+<strong>354 618</strong> Abonnés </span>
+</footer>
+</section>
+<!--/BLOC RUBRIQUE - 300 - Timeline Twitter - POS 4 - Favorit du Point-->
+<!--BLOC RUBRIQUE - 300 - Orange Top - POS 5 - STATIQUE-->
+<!--bH:-->
+<div id="orange_search" class="bloc">
+<p class="ph6">Top des recherches</p>
+<div id="n1"><a href="http://r-presse.ke.voila.fr/tu+es+mon+fils+tf1" target="_blank">Tu es mon fils tf1</a></div><div id="n2"><a href="http://r-presse.ke.voila.fr/keira+knightley" target="_blank">Keira knightley</a></div><div id="n3"><a href="http://r-presse.ke.voila.fr/mort+de+gerard+calvi" target="_blank">Mort de gerard calvi</a></div><div id="n4"><a href="http://r-presse.ke.voila.fr/emma+watson" target="_blank">Emma watson</a></div><div id="n5"><a href="http://r-presse.ke.voila.fr/gregory+bauge" target="_blank">Gregory bauge</a></div></div>
+<!--/BLOC RUBRIQUE - 300 - Orange Top - POS 5 - STATIQUE-->
+<!--BLOC RUBRIQUE - 300 - Sondages Débattre - POS 6 - AUTOCMS-->
+<!--bMexe - bloc_sondage_rubrique.tpl-->
+<div class="sondage">
+<form id="form_1907547">
+<p class="ph3">Sondage</p>
+<p class="ph4">
+<a href="/sondages/la-grece-ne-quittera-finalement-pas-la-zone-euro-24-02-2015-1907547_366.php">La Grèce ne quittera finalement pas la zone euro :</a>
+</p>
+<div id='reponses_1907547'>
+<div class="ligne">
+<input type="radio" id="radio_droite1" name="id_reponse" value="1" class='radio_1907547' />
+<label for="radio_droite1">C'est bien la preuve que l'Union européenne est plus un atout qu'un inconvénient pour les pays membres. </label>
+</div>
+<div class="ligne">
+<input type="radio" id="radio_droite2" name="id_reponse" value="2" class='radio_1907547' />
+<label for="radio_droite2">Syriza et Tsipras n'ont jamais eu l'intention de se passer de l'euro et de l'Europe, ils ont simplement employé ces arguments pour se faire élire.</label>
+</div>
+<div class="ligne">
+<input type="radio" id="radio_droite3" name="id_reponse" value="3" class='radio_1907547' />
+<label for="radio_droite3">L'Europe est devenue une prison dont il est, hélas, très difficile de s'évader.</label>
+</div>
+<div class="ligne">
+<input type="radio" id="radio_droite4" name="id_reponse" value="4" class='radio_1907547' />
+<label for="radio_droite4">Ce que la Grèce n'a pas obtenu, des pays comme l'Italie, l'Espagne ou la France y parviendront : oui, abandonner l'euro est possible.</label>
+</div>
+<div class="ligne">
+<input type="radio" id="radio_droite5" name="id_reponse" value="5" class='radio_1907547' />
+<label for="radio_droite5">La monnaie unique n'est pas un problème, seule compte la politique économique et monétaire que l'Allemagne impose implicitement à ses partenaires.</label>
+</div>
+<div class="action">
+<a href="" onclick="return xt_med('F','214','Sondages::Voter')" title="Valider" id ="vote_1907547" class="sond_vote">Voter</a>
+<a href="" onclick="return xt_med('F','214','Sondages::Resultats')" title="Voir les résultats" id ="voir_1907547" class="sond_voir">Voir les résultats</a>
+<span> (<span id='nb_votant_1907547'>119 votants</span>)</span>
+</div>
+</div>
+</form>
+<div id='resultats_1907547' class='resultats' style='display:none;'>
+<div class="ligne">
+<p class="ph5">C'est bien la preuve que l'Union européenne est plus un atout qu'un inconvénient pour les pays membres. <span> (<span id='nb_votant_rep_1'>20 votants</span>)</span></p>
+<div class="barre">
+<div class="contour" style="width: 228px;">
+<span title="16.8%" style="width: 38px;"></span>
+</div>
+<p>16.8%</p>
+</div>
+</div>
+<div class="ligne">
+<p class="ph5">Syriza et Tsipras n'ont jamais eu l'intention de se passer de l'euro et de l'Europe, ils ont simplement employé ces arguments pour se faire élire.<span> (<span id='nb_votant_rep_2'>54 votants</span>)</span></p>
+<div class="barre">
+<div class="contour" style="width: 228px;">
+<span title="45.4%" style="width: 104px;"></span>
+</div>
+<p>45.4%</p>
+</div>
+</div>
+<div class="ligne">
+<p class="ph5">L'Europe est devenue une prison dont il est, hélas, très difficile de s'évader.<span> (<span id='nb_votant_rep_3'>21 votants</span>)</span></p>
+<div class="barre">
+<div class="contour" style="width: 228px;">
+<span title="17.6%" style="width: 40px;"></span>
+</div>
+<p>17.6%</p>
+</div>
+</div>
+<div class="ligne">
+<p class="ph5">Ce que la Grèce n'a pas obtenu, des pays comme l'Italie, l'Espagne ou la France y parviendront : oui, abandonner l'euro est possible.<span> (<span id='nb_votant_rep_4'>10 votants</span>)</span></p>
+<div class="barre">
+<div class="contour" style="width: 228px;">
+<span title="8.4%" style="width: 19px;"></span>
+</div>
+<p>8.4%</p>
+</div>
+</div>
+<div class="ligne">
+<p class="ph5">La monnaie unique n'est pas un problème, seule compte la politique économique et monétaire que l'Allemagne impose implicitement à ses partenaires.<span> (<span id='nb_votant_rep_5'>14 votants</span>)</span></p>
+<div class="barre">
+<div class="contour" style="width: 228px;">
+<span title="11.8%" style="width: 27px;"></span>
+</div>
+<p>11.8%</p>
+</div>
+</div>
+<div class='action'>
+<a href="" title="Masquer les résultats" id ="masquer_1907547" class="sond_hide">Masquer les résultats</a>
+<span> (<span id='nb_votant_1907547'>119 votants</span>)</span>
+</div>
+</div>
+<a class="tous" href="/sondages/">Tous les sondages</a>
+</div>
+<script>
+jQuery(document).ready(function(){
+jQuery('#voir_1907547, #masquer_1907547').click(function(){
+var id=jQuery(this).attr('id');
+if(id=='voir_1907547'){
+var showDiv='#resultats_1907547',
+hideDiv='#reponses_1907547';
+}else{
+var showDiv='#reponses_1907547',
+hideDiv='#resultats_1907547';
+}
+jQuery(hideDiv).fadeOut(
+'slow',
+function(){
+jQuery(showDiv).fadeIn('slow');
+}
+);
+return false;
+});
+jQuery('#vote_1907547').click(function(){
+var reponse=jQuery('#form_1907547').serialize();
+reponse += reponse!=''?'&':'';
+reponse += 'id=1907547&nb_votes=1' ;
+jQuery.ajax({
+url: '/sondages/ajax.php',
+type: 'post',
+data: reponse,
+success: function(data) {
+if(data!=0){
+jQuery('#reponses_1907547 .action').hide();
+window.location.reload();
+}
+return false;
+}
+});
+return false;
+});
+});
+</script>
+<!--/BLOC RUBRIQUE - 300 - Sondages Débattre - POS 6 - AUTOCMS-->
+<!--BLOC RUBRIQUE - 300 - En vente - POS 7 - STATIC-->
+<!--bH:-->
+<div id="enVenteMag" class="module">
+<div class="enVenteHeader">En vente actuellement</div>
+<div class="enVenteDate"><a onclick="return xt_adc(this,'INT-157-[lienTexte]')" href="http://www.lepoint.fr/versions-numeriques/">Numéro 2215 du 19 février 2015</a></div>
+<a href="http://www.lepoint.fr/versions-numeriques/" onclick="return xt_adc(this, 'INT-159-[couv]')"><img src="/images/couv/lepoint2215-logement-le-scandale-qui-vous-coute-cher1.jpg" alt="Le Point Numéro 2215" title="Le Point Numéro 2215" /></a>
+<div class="enVenteTagline"><a onclick="return xt_adc(this,'INT-264-[lienTexte]')" href="http://www.lepoint.fr/versions-numeriques/">Retrouvez tous les numéros du Point</a></div>
+<div class="enVenteAbo1"><a onclick="return xt_adc(this,'INT-140-[Button]')" href="http://abo.lepoint.fr/">Abonnez-vous à partir de 1€</a></div>
+</div>
+
+<!--/BLOC RUBRIQUE - 300 - En vente - POS 7 - STATIC-->
+<!--BLOC RUBRIQUE - 300 - LP Autopromo Flash - STATIC-->
+<!--bH:-->
+<div class="pub">
+<object type="application/x-shockwave-flash" data="/images/swf/abo-295x290_3.swf" width="295" height="290">
+<param name="movie" value="/images/modules2/swf/abo-295x290_3.swf" />
+<param name="wmode" value="transparent" />
+<embed src="/images/modules2/swf/abo-295x290_3.swf" quality="high"
+pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash"
+width="295" height="290" wmode="transparent"></embed>
+</object>
+</div>
+<!--/BLOC RUBRIQUE - 300 - LP Autopromo Flash - STATIC-->
+<!--BLOC RUBRIQUE - 300 - Espace boutique Le Point - STATIC-->
+<!--bH:-->
+
+<div class="bloc diffusion_droite boutique">
+<!-- 
+<p class="ph2"><img src="/images/commun/t_boutique.png" alt="La boutique Le Point" width="100%" height="29"/></p>
+ -->
+<!-- ph2 -->
+<div class="f">
+<ul class="visuels">
+		<li   >
+		<a onclick="return xt_adc(this,'INT-145-[Couv]')" href="http://boutique.lepoint.fr/produit/610/le-guide-des-plantes-pour-se-soigner?affiliate=15">
+			<img src="/images/hors-serie/module-boutique/le-guide-des-plantes-pour-se-soigner.jpg" alt="LE GUIDE DES PLANTES POUR SE SOIGNER" width="80px" height="117px"  />
+		</a>
+	</li>
+		<li   >
+		<a onclick="return xt_adc(this,'INT-146-[Couv]')" href="http://boutique.lepoint.fr/produit/614/2500-ans-de-liberte-d-exression?affiliate=15">
+			<img src="/images/hors-serie/module-boutique/2500-ans-de-liberte-dexpression.jpg" alt="2500 ans de Liberté d'expression" width="80px" height="117px"  />
+		</a>
+	</li>
+		<li   class="last" >
+		<a onclick="return xt_adc(this,'INT-147-[Couv]')" href="http://boutique.lepoint.fr/produit/613/50-phrases-cultes-et-droles-de-l-histoire?affiliate=15">
+			<img src="/images/hors-serie/module-boutique/50-phrases-cultes-et-droles-de-lhistoire.jpg" alt="50 phrases cultes et drôles de L'HISTOIRE" width="80px" height="117px"  />
+		</a>
+	</li>
+	</ul>
+<ul>
+	<li style="background: url('http://www.lepoint.fr/images/commun/puce/2.gif') no-repeat 0px 6px;"><a onclick="return xt_adc(this,'INT-148-[lienTexte]')" href="http://boutique.lepoint.fr/rayon/133/hors-serie?affiliate=15" style="font-size:14px!important;">Tous les hors-s&eacute;ries</a></li>
+	
+</ul>
+</div>
+
+</div>
+<!--/BLOC RUBRIQUE - 300 - Espace boutique Le Point - STATIC-->
+<!--/COL R30 1--></div><!-- fin droite -->
+</div><!-- fin contenu -->
+<!--COL CFT -->
+<footer>
+<!--BLOC FOOTER - 990 - Bandeau ASQ-->
+<!--bH:-->
+<style type="text/css">
+#bandeau_appnexus {
+clear: both;
+text-align: center;
+margin-bottom: 20px;
+}
+</style>
+<div id="bandeau_appnexus">
+<script type="text/javascript">
+if (typeof(desactive_asq)=='undefined' || desactive_asq !=1){
+//<![CDATA[
+document.write('<scr'+'ipt type="text/javascript" SRC="http://ib.adnxs.com/ttj?id=1029169&size=1000x300&promo_sizes=1000x90,728x90&promo_alignment=center&referrer=lepoint.fr"><\/script>');
+//]]>
+};
+</script>
+</div>
+<!--/BLOC FOOTER - 990 - Bandeau ASQ-->
+<!--BLOC FOOTER  - footer - DYN-->
+<!--bMiso - bloc_footer.tpl-->
+<script language="javascript" type="text/javascript">
+var timeoutID=0;
+function LoadPage(){
+window.document.location.reload();
+}
+function Timer(){
+timeoutID = window.setTimeout("LoadPage()",240000);
+}
+</script>
+<script language="javascript" type="text/javascript">Timer()</script>
+<!--PUSHWEB-->
+<script type="text/javascript">
+var boxpop1000mercissnippet = (location.protocol=='https:'?'https://cdn.1000mercis.com/prod/pushweb/newsletterLP.js':'http://cdn.1000mercis.com/prod/pushweb/newsletterLP.js');
+document.write ("<scr"+"ipt type='text/javascript' src='"+boxpop1000mercissnippet);
+document.write ("'></scr"+"ipt>");
+</script>
+<!--FIN PUSHWEB-->
+<script type="text/javascript">
+(function(w, d) { var a = function() { var a = d.createElement('script'); a.type = 'text/javascript';
+a.async = 'async'; a.src = '//' + ((w.location.protocol === 'https:') ? 's3.amazonaws.com/cdx-radar/' :
+'radar.cedexis.com/') + '01-10334-radar10.min.js'; d.body.appendChild(a); };
+if (w.addEventListener) { w.addEventListener('load', a, false); }
+else if (w.attachEvent) { w.attachEvent('onload', a); }
+}(window, document));
+</script>
+<!--TARGETING_1000MERCIS-->
+<img src="http://mmtro.com/p?tagid=6546820-036e958179baf6b375e26731242eeacf" width="1" height="1" border="0" />
+<!--FIN TARGETING_1000MERCIS-->
+<!--BASILIC-->
+<script type="text/javascript">
+(function(){var f,d,a,b=document.createElement("iframe");b.src="javascript:false";(b.frameElement||b).style.cssText="width: 0; height: 0; border: 0; display: none;";var a=document.getElementsByTagName("script")[0];a.parentNode.insertBefore(b,a);try{d=b.contentWindow.document}catch(c){f=document.domain;b.src="javascript:var d=document.open();d.domain='"+f+"';void(0);";d=b.contentWindow.document}d.open()._l=function(){var e=this.createElement("script");if(f){this.domain=f}e.id="boomr-if-as";e.src=window.location.protocol=="https:"?"https://d3phbp7p78bdk9.cloudfront.net/common/foglio.js":"http://foglio.basilic.io/common/foglio.js";this.body.appendChild(e)};d.write('<body onload="document._l();">');d.close()})();
+</script>
+<!--FIN BASILIC-->
+<div id="pied1">
+<div class="t">
+<p class="ph2"> </p>
+<form action="/recherche/recherche.php" method="get" id="search3">
+<input name="query" value="Rechercher sur le site" class="focusInput" id="mc_recherche_pied" type="text">
+<input type="submit" class="bouton" alt="Rechercher" value="" />
+</form>
+</div>
+<div class="b">
+<p style="padding:0 0 20px">
+Consultez les articles de la rubrique, suivez les informations en temps réel et accédez à nos analyses de l'actualité.
+</p>
+<div class="g" id="lp_dossiers">
+<div class="ligne">
+<p class="ph3"><a rel="nofollow" href="#">Dossiers </a></p>
+<ul class="dossier_liste">
+<li><a href="http://www.lepoint.fr/dossiers/histoire/voyages-en-france/" title="Voyages en France ">Voyages en France </a></li><li><a href="http://www.lepoint.fr/dossiers/voyages/le-pays-ou-ca-se-passe/" title="Le pays où ça se passe">Le pays où ça se passe</a></li><li><a href="http://www.lepoint.fr/dossiers/societe/etre-juif-france/" title="Être juif en France ">Être juif en France </a></li></ul>
+</div>
+</div>
+<div class="g" id="lp_divers">
+<div class="ligne">
+<p class="ph3">Le Magazine</p>
+<ul style="width:183px">
+<li><a href="http://boutique.lepoint.fr">Boutique</a></li>
+<li><a href="http://abo.lepoint.fr" Onclick="return xt_adc(this, 'INT-193-[lienTexte]')">Abonnements</a><img src="http://logi8.xiti.com/get.ad?xts=188560&ati=INT-193-[lienTexte]&type=AT&rn=1&url=http://www.lepoint.fr/images/myad.gif"></li>
+<li><a href="http://boutique.lepoint.fr/rayon/133/hors-serie">Hors-séries</a></li>
+<li><a href="http://www.lepoint.fr/html/lepoint/edition_digitale.php">Édition digitale</a></li>
+<li><a href="http://www.lepoint.fr/html/lepoint/en_kiosque.php">En kiosque</a></li>
+</ul>
+</div>
+</div>
+<div class="g" id="lp_mobile">
+<div class="ligne">
+<p class="ph3">Le Point mobile</p>
+<ul>
+<li><a href="https://itunes.apple.com/fr/app/le-point.fr/id326861451">Application iPhone et iPad</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=fr.lepoint.android">Application Android</a></li>
+<li><a href="http://appworld.blackberry.com/webstore/content/22415/?lang=fr">Application Blackberry</a></li>
+<li><a href="http://www.windowsphone.com/fr-fr/store/app/lepoint/6dac26ec-c998-43b4-b93e-8b179982c229">Application Windows Phone</a></li>
+<li><a href="http://apps.microsoft.com/windows/fr-fr/app/le-point-fr/5155ca53-f6b8-4da3-8744-5cd19afd25b0">Application Windows 8</a></li>
+<li><a href="http://mobile.lepoint.fr">Site mobile</a></li>
+</ul>
+</div>
+</div>
+<div class="g" id="lp_suivre">
+<div class="ligne">
+<p class="ph3">Nous suivre</p>
+<div class="sn">
+<ul class="sn_foot">
+<li><a href="http://www.facebook.com/lepoint.fr">Facebook</a></li>
+<li><a href="http://twitter.com/LePoint">Twitter</a></li>
+<li><a rel="publisher" href="http://plus.google.com/u/0/b/108148124716497323623/108148124716497323623/posts">Google +</a></li>
+<li><a href="http://www.lepoint.fr/rss.xml" target="_blank">RSS</a></li>
+<li><a href="http://www.youtube.com/user/lepointTV">Vidéos</a></li>
+<li><a href="http://www.dailymotion.com/LePoint">Daily Motion</a></li>
+</ul>
+</div>
+</div>
+<div class="ligne ligne2">
+<!--<p class="ph3"><a href="#">Newsletters</a></p>-->
+<ul>
+<li><a href="http://boc.lepoint.fr/campagne/newsletters/origine/nlf">Recevez nos newsletters</a></li>
+<!--<li><a href="#">Newsletter Argus des Montres</a></li>
+<li><a href="#">Newsletter Auto Addict</a></li>-->
+</ul>
+</div>
+</div>
+<!-- Fin pied 1 -->
+</div>
+<div id="pied2">
+<ul>
+<li>&copy; <span itemprop="copyrightHolder" itemscope itemtype="http://schema.org/Organization"><span itemprop="name">Le Point.fr</span></span></li>
+<li><a href="http://www.lepoint.fr/html/conditions/mentions_legales.jsp" title="Mentions l&eacute;gales">Mentions l&eacute;gales</a></li>
+<li><a href="http://boc.lepoint.fr/Faq" title="FAQ">FAQ</a></li>
+<li><a href="http://www.lepoint.fr/html/conditions/moderation.php">Conditions g&eacute;n&eacute;rales d'utilisation</a></li>
+<li><a href="http://www.lepoint.fr/html/contacts/contacts.jsp" title="Contacts">Publicit&eacute;</a></li>
+<li><a href="http://www.lepoint.fr/html/contacts/support.php" title="Ecrire au Point" class="xtclick">Nous contacter</a></li>
+</ul>
+<div class="ojd">
+<a href="http://www.ojd-internet.com/chiffres/5701-lepoint.fr?adhid=4817" target="_blank" class="xtclick"></a>
+<p>La fr&eacute;quentation de ce site est certifi&eacute;e par l'OJD.</p>
+</div>
+</div>
+<div id="footer-cookies">
+<div id="footer-texte"><p>En poursuivant votre navigation sur ce site, vous acceptez l’utilisation de cookies pour vous proposer des services et offres adaptés à vos centres d'intérêts. Pour en savoir plus, <a href="http://www.lepoint.fr/html/conditions/cookies-donnees-personnelles.php">cliquez ici</a>. <span id="fermer" style="float:right;"><a href="javascript:void(0)" style="text-decoration:none;">X</a></span></p></div>
+</div>
+<link href="http://www.lepoint.fr/css2/spoutnik/cookies.css" type="text/css" rel="stylesheet">
+<script type="text/javascript">
+jQuery(document).ready(function() {
+if(getCookie('accept_cookies') == null) {
+setCookie('accept_cookies','accept_cookies',3650);
+}
+jQuery("#fermer").click(function(){jQuery('#footer-cookies').css('display', 'none');})
+});
+</script>
+<!--/BLOC FOOTER  - footer - DYN-->
+</footer>
+<!--/COL CFT --><!-- /template body :  body_rubrique_2col.tpl -->
+</div>
+<!-- Fin Site -->
+<!-- Tag xiti -->
+<div id="xiti-logo">
+<script type="text/javascript">
+<!--
+xtnv     = document; // parent.document or top.document or document
+xtsd     = "http://logi8";
+xtsite   = "188560";
+xtn2     = "213"; // level 2 site ID
+xtpage   = "page_404"; // page name (with the use of :: to create chapters)
+xtdi     = ""; // implication degree
+xt_multc = "&x1=1&x2=1"; // all the xi indicators (like "&x1=...&x2=....&x3=...")
+xt_an    = ""; // user ID
+xt_ac    = ""; // category ID
+xt_ati = "";
+//do not modify below
+if (window.xtparam!=null){window.xtparam+="&ac="+xt_ac+"&an="+xt_an+"&ati="+xt_ati+xt_multc;} else {window.xtparam = "&ac="+xt_ac+"&an="+xt_an+"&ati="+xt_ati+xt_multc;};
+//do not modify below
+if (window.xtparam!=null){window.xtparam+=xt_multc+"&ac="+xt_ac+"&an="+xt_an;} else {window.xtparam=xt_multc+"&ac="+xt_ac+"&an="+xt_an;};
+xt_pagetype = "16-1-0";
+// do not modify below
+if (window.xtparam!=null) {window.xtparam+="&ptype="+xt_pagetype;} else {xtparam = "&ptype="+xt_pagetype;};
+//-->
+</script>
+<script type="text/javascript" src="http://www.lepoint.fr/scripts2/xtcore.js"></script>
+<script type="text/javascript" src="http://www.lepoint.fr/scripts2/xiti_mesure_clics.js"></script>
+<object>
+<noscript>
+<div id="xiti-logo-noscript">
+<img width="1" height="1" src="http://logi8.xiti.com/hit.xiti?s=188560&amp;s2=213&amp;p=page_404&amp;di=&amp;an=&amp;ac=" alt="XiTi" />
+</div>
+</noscript>
+</object>
+</div>
+<!-- Fin tag xiti -->
+<script type="text/javascript" async src="//platform.twitter.com/widgets.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.2/jquery-ui.min.js"></script>
+<script type="text/javascript" src="/scripts2/js_f5b4eed57ed9e8b13db8b91884a7e36d.js"></script>
+</body>
+<!-- GenTmInf rub=lp:w:actu:arche pg= gstart=2015-02-24T15:35:01 -->
+<!-- ExeTmInf tm=2015-02-24T16:10:53 hn=lepoint-web9.sdv.fr dr=0.036141 -->
+</html>
