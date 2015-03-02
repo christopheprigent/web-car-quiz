@@ -1,0 +1,3 @@
+[submodule "thirdparties/wikibase-api"]
+	path = thirdparties/wikibase-api
+	url = https://github.com/addwiki/wikibase-api.git
